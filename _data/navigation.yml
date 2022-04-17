@@ -1,9 +1,11 @@
 main:
-  - title: "Home"
+  - title: "🍖 Home"
     url: /
-  - title: "Team"
+  - title: "🍗 Team"
     url: /team/
-  - title: "Coffee"
+  - title: "☕ Coffee"
     url: /coffee/
-  - title: "Gallery"
+  - title: "🙋‍♀️ Gallery"
     url: /gallery/
+  - title: "Contact"
+    url: /contact/
