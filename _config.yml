@@ -34,7 +34,6 @@ github_username: migocode
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
-  - jekyll-feed
   - jekyll-paginate
   - jekyll-data
   - jekyll-include-cache
