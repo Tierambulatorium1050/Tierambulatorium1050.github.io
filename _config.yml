@@ -31,11 +31,11 @@ url: "https://migocode.github.io/" # the base hostname & protocol for your site,
 github_username:  migocode
 
 # Build settings
-# theme: minimal-mistakes-jekyll
-# theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-data
   - jekyll-include-cache
 
 # Exclude from processing.
