@@ -5,7 +5,7 @@ permalink: /kontakt/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/exterior.png
+  overlay_image: /assets/images/exterior1.png
 excerpt: "Zentral gelegen und daher leicht zu erreichen. Kommen Sie vorbei!"
 ---
 
