@@ -6,9 +6,6 @@ header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
   overlay_image: /assets/images/title.avif
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-
-Wie macht man das richtig? Braucht man einen API-Key?<br />
-<a href="https://github.com/ayastreb/jekyll-maps">Google maps embed</a>
+Minimal Mistakes Cheat Sheet [Cheat Sheet](https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/)

@@ -6,25 +6,33 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/animal2.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Das Hauptanliegen unseres Teams ist, Erkrankungen Ihrer Haustiere durch Vorsorge zu vermeiden bzw. Krankheiten bereits im Frühstadium zu erkennen und zu heilen."
 feature_row:
-  - image_path: /assets/images/animal1.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/animal2.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+  - image_path: /assets/images/animal5.jpg
+    alt: "Fachgebiete"
+    title: "Fachgebiete"
+    excerpt: "Akupunktur, Bachblüten, Neuraltherapie, Phytotherapie, Innere Medizin, Gynäkologie, Urologie, Dermatologie, Kardiologie, Orthopädie, Chirurgie, Zahnbehandlung, Ophtalmologie"
+    url: "/fachgebiete/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/animal3.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/animal6.jpg
+    alt: "Diagnostik"
+    title: "Diagnostik"
+    excerpt: "Rönten, Ultraschall, EKG, Labor, Blutdruckmessung"
+    url: "/diagnostik/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/animal9.jpg
+    alt: "Medizinische Betreuung"
+    title: "Medizinische Betreuung"
+    excerpt: "Gesundheitsvorsorge, Altersvorsorge, Ernährungsberatung / B.A.R.F.E.N., Chippen & EU-Impfpass, Hausbesuche, Hausapotheke, Impfberatung, Nagelberatung, **Stationäre Aufnahme möglich**"
+    url: "/medizinische-betreuung/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 Dabei helfen komplementärmedizinische Therapien, die Selbstheilungskräfte des Körpers zu stärken und ein langfristiges Gleichgewicht wieder herzustellen.
 
 Nachfolgend finden Sie einen Überblick über die medizinischen Bereiche, unsere Möglichkeiten der Diagnostik sowie darüber hinausgehende medizinische Betreuung und Dienstleistungen für unsere Patienten.
+
+{% include feature_row %}

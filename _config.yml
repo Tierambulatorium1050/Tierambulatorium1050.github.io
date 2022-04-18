@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: "Corinna Salficky"
+name: "Tierambulatorium Bacheplatz"
 title: "Tierambulatorium Bacheplatz"
 logo: /assets/images/logo-large.jpg
 email: your-email@example.com
@@ -39,7 +39,6 @@ plugins:
   - jekyll-paginate
   - jekyll-data
   - jekyll-include-cache
-  - jekyll-maps
 
 defaults:
   # _pages
