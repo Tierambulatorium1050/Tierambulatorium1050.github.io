@@ -9,3 +9,4 @@ header:
 ---
 
 Minimal Mistakes Cheat Sheet [Cheat Sheet](https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/)
+Markdown [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
