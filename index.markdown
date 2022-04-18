@@ -3,7 +3,7 @@ title: "Tierambulatorium am Bacherplatz"
 author_profile: true
 layout: home
 classes: wide
-excerpt: "Wir sind ein sehr freundliches Schlachthaus. Kein Tier, das unsere Ordination betritt wird sie lebend wieder verlassen. Dafür stehe ich mit meinem Namen."
+excerpt: "Wir sind für die kleinen und großen Wehwehchen Ihres Vierbeiners da."
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
