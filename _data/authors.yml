@@ -1,7 +1,7 @@
 Corinna Salficky:
   name        : "Mag. Corinna Salficky"
   bio         : "Ich bin Tierärztin! Ehrlich!"
-  avatar      : "/assets/images/corinna.png"
+  avatar      : "/assets/images/corinna-small.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
