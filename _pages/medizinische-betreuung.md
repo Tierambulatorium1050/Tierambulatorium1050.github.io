@@ -1,5 +1,7 @@
 ---
 title: Medizinische Betreuung
+layout: single
+toc: true
 permalink: /medizinische-betreuung/
 ---
 

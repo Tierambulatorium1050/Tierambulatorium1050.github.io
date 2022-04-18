@@ -1,6 +1,7 @@
 ---
 title: "Kontakt"
-layout: splash
+layout: single
+classes: wide
 permalink: /kontakt/
 header:
   overlay_color: "#000"

@@ -1,5 +1,6 @@
 ---
 title: "Links"
+layout: single
 permalink: /links/
 ---
 

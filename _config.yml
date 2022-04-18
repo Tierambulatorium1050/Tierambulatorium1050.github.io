@@ -23,9 +23,7 @@ title: "Tierambulatorium Bacheplatz"
 logo: /assets/images/logo-large.jpg
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Beschreibung hier!
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: migocode.github.io
 url: "https://migocode.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -49,7 +47,42 @@ defaults:
       layout: single
       author_profile: true
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      show_date: true
+      author_profile: true
+      read_time: true
+      comments: false
+      related: false
+
 include: ["_pages"]
+
+author:
+  name: "Mag. Corinna Salficky"
+  bio: "Ich bin Tierärztin! Ehrlich!"
+  avatar: "/assets/images/corinna-small.png"
+  links:
+    - label: "Arbeitergasse 4/4, 1050 Wien"
+      icon: "fa-solid fa-fw fa-location-dot"
+      url: "https://www.google.com/maps/place/Tierambulatorium+am+Bacherplatz/@48.1871774,16.352214,16.87z/data=!4m5!3m4!1s0x476da82f2e762efb:0x205402a529b2d653!8m2!3d48.1870109!4d16.354401?hl=de"
+    - label: "praxis@vetcat.at"
+      icon: "fa-solid fa-fw fa-envelope"
+      url: "mailto:praxis@vetcat.at"
+    - label: "+43 (1) 54 54 976"
+      icon: "fa-solid fa-fw fa-phone"
+      url: "/kontakt"
+    - label: "Facebook"
+      icon: "fa-brands fa-fw fa-facebook"
+      url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
+    - label: "Instagram"
+      icon: "fa-brands fa-fw fa-instagram"
+      url: "https://www.instagram.com/migo.vie/?hl=en"
 
 footer:
   links:

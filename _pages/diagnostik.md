@@ -1,5 +1,7 @@
 ---
 title: Diagnostik
+layout: single
+toc: true
 permalink: /diagnostik/
 ---
 
