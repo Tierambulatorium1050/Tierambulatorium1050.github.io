@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: "Tierambulatorium Bacheplatz"
+name: "Corinna Salficky"
 title: "Tierambulatorium Bacheplatz"
-logo: /assets/images/logo-small.jpg
+logo: /assets/images/logo-large.jpg
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -56,10 +56,13 @@ footer:
   links:
     - label: "E-Mail"
       icon: "fas fa-envelope"
-      url: "mailto:mailbox.migo@gmail.com"
+      url: "mailto:praxis@vetcat.at"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/michael-goll-1b7995114"
+    - label: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
 
 atom_feed:
   hide: true

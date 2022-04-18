@@ -1,0 +1,14 @@
+Corinna Salficky:
+  name        : "Mag. Corinna Salficky"
+  bio         : "Ich bin Tierärztin! Ehrlich!"
+  avatar      : "/assets/images/corinna.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:praxis@vetcat.at"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.vetcat.at"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
