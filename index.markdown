@@ -7,7 +7,7 @@ excerpt: "Wir sind für die kleinen und großen Wehwehchen Ihres Vierbeiners da.
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/title.avif
+  overlay_image: /assets/images/title.jpg
 ---
 
 # Herzlich Willkommen im Tierambulatorium am Bacherplatz!
