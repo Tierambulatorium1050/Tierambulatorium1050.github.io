@@ -19,7 +19,7 @@ wir freuen uns auf Ihren Besuch!
   <br />
   <br />
   <div style="text-align: center;">
-  <a href="https://bacherplatz.vet-booking.net/" target="_blank"><i class="fa-solid fa-fw fa-calendar-check"></i> online Terminvereinbarung</a>
+  <a href="https://bacherplatz.vet-booking.net/" target="_blank"><i class="fa-solid fa-fw fa-calendar-check"></i> <b>online Terminvereinbarung</b></a>
   </div>
 </div>
 

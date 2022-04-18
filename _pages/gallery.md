@@ -1,6 +1,5 @@
 ---
 title: Gallery
-layout: single
 permalink: /gallery/
 gallery:
   - url: assets/images/animal2.jpg
