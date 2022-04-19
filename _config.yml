@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: "Tierambulatorium Bacheplatz"
-title: "Tierambulatorium Bacheplatz"
+name: "Tierambulatorium Bacherplatz"
+title: "Tierambulatorium Bacherplatz"
 logo: /assets/images/logo-small.jpg
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -32,7 +32,7 @@ github_username: migocode
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-paginate
   - jekyll-data
@@ -63,8 +63,13 @@ defaults:
 include: ["_pages"]
 
 author:
-  name: "Mag. Corinna Salficky"
-  bio: "Ich bin Tierärztin! Ehrlich!"
+  name: "Mag. Corinna Rotsejdl"
+  bio: "Mo:	09:30-11:30 und 16:00-19:00<br/>
+Di:	09:30-11:30<br/>
+Mi:	09:30-11:30 und 17:00-20:00<br/>
+Do:	09:30-11:30 und 17:00-19:00<br/>
+Fr:	16:00-19:00<br/>
+Sa:	09:30-11:30"
   avatar: "/assets/images/corinna-small.png"
   links:
     - label: "Arbeitergasse 4/4, 1050 Wien"
@@ -79,18 +84,18 @@ author:
     - label: "Facebook"
       icon: "fa-brands fa-fw fa-facebook"
       url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
-    - label: "Instagram"
-      icon: "fa-brands fa-fw fa-instagram"
-      url: "https://www.instagram.com/migo.vie/?hl=en"
+    # - label: "Instagram"
+    #   icon: "fa-brands fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/migo.vie/?hl=en"
 
 footer:
   links:
     - label: "E-Mail"
       icon: "fas fa-envelope"
       url: "mailto:praxis@vetcat.at"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/michael-goll-1b7995114"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-linkedin"
+    #   url: "https://www.linkedin.com/in/michael-goll-1b7995114"
     - label: "Facebook"
       icon: "fab fa-facebook"
       url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"

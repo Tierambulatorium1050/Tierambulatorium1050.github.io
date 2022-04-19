@@ -22,4 +22,4 @@ gallery:
 
 {% include gallery layout="half" %}
 
-These Animals have been made to tasty pieces of sausage and ham. I have sold the sausages and the ham to my friends. They all said it was the most delicious sausage and ham the ever did eat 🍗🥩! Hmmmmmm... so tasty!
+ Wir lieben Tiere!
