@@ -1,6 +1,6 @@
 main:
-  - title: "Home"
-    url: /
+  - title: "Terminbuchung"
+    url: /buchungstool/
   - title: "News"
     url: /news/
   - title: "Team"
