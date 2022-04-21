@@ -23,14 +23,12 @@ wir freuen uns auf Ihren Besuch!
   </div>
 </div>
 
-**Liebe Tierbesitzer!**{: .text-center}
+**Liebe TierbesitzerInnen!**{: .text-center}
  
 Aufgrund der momentanen Situation versuchen auch wir, zur Eindämmung der Epidemie beizutragen. Daher gelten bis auf Weiteres folgende Maßnahmen:
 
 **Melden Sie sich in jedem Fall vorher telefonisch bei uns an, um den Kontakt im Wartezimmer auf ein Mindestmaß zu beschränken (maximal 2 Personen!)**{: style="color: red"}
 
 - Tragen Sie eine FFP2 Maske, wenn Sie die Ordination betreten.
-- Zu Ihrem und unserem Schutz können Sie sich gerne bei uns auf der Toilette die Hände mit Seife waschen, auch ein Desinfektionsmittel steht zur Verfügung!  
-- Hausbesuche sind in nächster Zeit nur in Ausnahmefällen möglich.
 
 Wir danken Ihnen für Ihr Verständnis und bitten Sie um Ihre Mithilfe!

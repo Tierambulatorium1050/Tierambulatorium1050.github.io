@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/animal5.jpg
     alt: "Fachgebiete"
     title: "Fachgebiete"
-    excerpt: "Akupunktur, Bachblüten, Neuraltherapie, Phytotherapie, Innere Medizin, Gynäkologie, Urologie, Dermatologie, Kardiologie, Orthopädie, Chirurgie, Zahnbehandlung, Ophtalmologie"
+    excerpt: "Innere Medizin, Gynäkologie, Urologie, Dermatologie, Kardiologie, Orthopädie, Chirurgie, Zahnbehandlung, Ophtalmologie"
     url: "/fachgebiete/"
     btn_label: "Read More"
     btn_class: "btn--inverse"

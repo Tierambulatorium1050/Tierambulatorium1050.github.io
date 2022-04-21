@@ -20,13 +20,14 @@
 
 name: "Tierambulatorium Bacherplatz"
 title: "Tierambulatorium Bacherplatz"
-logo: /assets/images/logo-small.jpg
-email: your-email@example.com
+#logo: /assets/images/tab_logo_2022.png
+logo: /assets/images/tab_animals.png
+email: praxis@vetcat.at
 description: >- # this means to ignore newlines until "baseurl:"
   Beschreibung hier!
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: migocode.github.io
-url: "https://migocode.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+domain: vetcat.at
+url: "https://vetcat.at/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: migocode
 
@@ -68,9 +69,9 @@ author:
 Di:	09:30-11:30<br/>
 Mi:	09:30-11:30 und 17:00-20:00<br/>
 Do:	09:30-11:30 und 17:00-19:00<br/>
-Fr:	16:00-19:00<br/>
+Fr:	                16:00-19:00<br/>
 Sa:	09:30-11:30"
-  avatar: "/assets/images/corinna-small.png"
+  avatar: "/assets/images/corinna.jpg"
   links:
     - label: "Arbeitergasse 4/4, 1050 Wien"
       icon: "fa-solid fa-fw fa-location-dot"
