@@ -1,9 +1,15 @@
-Corinna Salficky:
-  name: "Mag. Corinna Salficky"
-  bio: "Ich bin Tierärztin! Ehrlich!"
-  avatar: "/assets/images/corinna-small.png"
+Corinna Rotsejdl:
+  name: "Mag. Corinna Rotsejdl"
+  bio: "Mo:	09:30-11:30 und 16:00-19:00<br/>
+Di:	09:30-11:30<br/>
+Mi:	09:30-11:30 und 17:00-20:00<br/>
+Do:	09:30-11:30 und 17:00-19:00<br/>
+Fr:	                16:00-19:00<br/>
+Sa:	09:30-11:30 <br/>
+<b>Notdienst täglich 09:00 - 21:00</b>"
+  avatar: "/assets/images/corinna.jpg"
   links:
-    - label: "Arbeitergasse 4/4, 1050 Wien"
+    - label: "Arbeitergasse 4, 1050 Wien"
       icon: "fa-solid fa-fw fa-location-dot"
       url: "https://www.google.com/maps/place/Tierambulatorium+am+Bacherplatz/@48.1871774,16.352214,16.87z/data=!4m5!3m4!1s0x476da82f2e762efb:0x205402a529b2d653!8m2!3d48.1870109!4d16.354401?hl=de"
     - label: "praxis@vetcat.at"
@@ -15,6 +21,3 @@ Corinna Salficky:
     - label: "Facebook"
       icon: "fa-brands fa-fw fa-facebook"
       url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
-    - label: "Instagram"
-      icon: "fa-brands fa-fw fa-instagram"
-      url: "https://www.instagram.com/migo.vie/?hl=en"

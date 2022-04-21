@@ -9,11 +9,13 @@ permalink: /diagnostik/
 
 ### Röntgen
 
-Mit dem Röntgengerät lassen sich Verletzungen im Bereich des Skelett- und tw. des Bänderapparats schnell und einfach diagnostizieren. Auch Veränderungen an den Organen (Herz, Lunge oder zB Darm oder Blase) oder an den Zähnen können bis zu einem gewissen Grad erkannt werden. Das Röntgenbild ist ein wichtiges diagnostisches Hilfsmittel in der tierärztlichen Praxis.
+Wir bieten Röntgenuntersuchungen mit unserer hochmodernen digitalen Detektor-Röntgenanlage. Dank der sensationellen Bildqualität des Röntgengerätes, lassen sich Verletzungen im Bereich des Skelett- und tw. des Bänderapparats schnell und einfach diagnostizieren. Auch Veränderungen an den Organen (Herz, Lunge oder zB Darm oder Blase) oder an den Zähnen können erkannt werden. Das Röntgenbild ist seit jeher ein wichtiges diagnostisches Hilfsmittel in der tierärztlichen Praxis. Die neue digitalen detektor technologie hebt dieses Hilfsmittel auf ein ganz neues Niveau.
 
 ### Labor
 
-Die Analyse von Blut oder anderen Körperflüssigkeiten (wie zB Harn) ist ein wichtiges diagnostisches Hilfsmittel. Man kann damit oft frühzeitig Organschäden (zB die chronische Niereninsuffizienz) feststellen, noch bevor klinische Symptome auftreten und so schon eine Therapie einleiten, bevor sich das Krankheitsbild verschlechtert. Wir haben in unserer Ordination die Möglichkeit, kleinere Blutanalysen mit ein paar wichtigen Organwerten direkt durchzuführen, für ausführlichere oder komplexere Untersuchungen schicken wir die Proben an verschiedene Labors im In- und Ausland.
+Mit unserem modernen in-house Labor können wir alle gängigen Blutuntersuchungen direkt bei uns in der Ordination durchführen. 
+Die Analyse von Blut oder anderen Körperflüssigkeiten (wie zB Harn) ist ein wichtiges diagnostisches Hilfsmittel. Man kann damit oft frühzeitig Organschäden (zB die chronische Niereninsuffizienz) feststellen, noch bevor klinische Symptome auftreten und so schon eine Therapie einleiten, bevor sich das Krankheitsbild verschlechtert. 
+Dank unseres in-house Labors können entfällt die übliche Wartezeit auf das Ergebnis. Da bei vielen Krankheitsbildern die Zeit eine große Rolle spielt, ist dies ein enormer Mehrwert. Für ausgefallene, komplexere Untersuchungen schicken wir Proben auch an verschiedene Labors im In- und Ausland.
 
 ### Blutdruck Messung
 

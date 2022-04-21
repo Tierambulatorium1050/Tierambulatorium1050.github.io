@@ -22,4 +22,3 @@ gallery:
 
 {% include gallery layout="half" %}
 
- Wir lieben Tiere!
