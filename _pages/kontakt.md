@@ -8,16 +8,24 @@ header:
   overlay_image: /assets/images/kontakt.jpg
 excerpt: "Zentral gelegen und leicht zu erreichen."
 ---
+**Tierambulatorium am Bacherplatz**  
+Mag. Corinna Rotsejdl  
+Arbeitergasse 4/4, 1050 Wien  
+<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
+<i class="fas fa-fw fa-phone"></i> 01/54 54 976  
+<i class="fas fa-fw fa-fax"></i> 01/54 54 976
+{: .notice--info}
+
 **Unsere Öffnungszeiten:**
 
 |  | Vormittag | Nachmittag |
 |-------|--------|---------|
 | Montag | 09:30 - 11:30 | 16:00 - 19:00 |
-| Dienstag | 09:30 - 11:30 | - |
+| Dienstag | 09:30 - 11:30 |  |
 | Mittwoch | 09:30 - 11:30 | 17:00 - 20:00 |
 | Donnerstag | 09:30 - 11:30 | 17:00 - 19:00 |
-| Freitag | - | 16:00 - 19:00 |
-| Samstag | 09:30 - 11:30 | - |
+| Freitag |  | 16:00 - 19:00 |
+| Samstag | 09:30 - 11:30 |  |
 
 Notdienst täglich von 09:00 - 21:00. Auch an Sonn- und Feiertagen!
 
