@@ -5,7 +5,7 @@ permalink: /kontakt/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/kontakt.jpg
+  overlay_image: /assets/images/title.jpg
 excerpt: "Zentral gelegen und leicht zu erreichen."
 ---
 **Tierambulatorium am Bacherplatz**  

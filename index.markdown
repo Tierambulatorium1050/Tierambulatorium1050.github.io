@@ -7,7 +7,7 @@ excerpt: "Wir sind für Ihr Haustier da. Auch im Notdienst: Täglich, auch Sonn-
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/title.jpg
+  overlay_image: /assets/images/kontakt.jpg
 ---
 
 # Herzlich Willkommen im Tierambulatorium am Bacherplatz!
