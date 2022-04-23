@@ -5,5 +5,7 @@ main:
     url: /news/
   - title: "Leistungen"
     url: /leistungen/
-  - title: "Kontakt"
+  - title: "Team"
+    url: /team/
+      - title: "Kontakt"
     url: /kontakt/
