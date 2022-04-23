@@ -7,5 +7,5 @@ main:
     url: /leistungen/
   - title: "Team"
     url: /team/
-      - title: "Kontakt"
+  - title: "Kontakt"
     url: /kontakt/
