@@ -38,6 +38,7 @@ plugins:
   - jekyll-paginate
   - jekyll-data
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 defaults:
   # _pages
