@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Beschreibung hier!
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: vetcat.at
-url: "https://vetcat.at/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vetcat.at" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 #github_username: migocode
 
@@ -39,6 +39,7 @@ plugins:
   - jekyll-data
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 defaults:
   # _pages

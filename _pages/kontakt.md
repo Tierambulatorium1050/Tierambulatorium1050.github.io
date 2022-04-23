@@ -37,5 +37,3 @@ Notdienst täglich von 09:00 - 21:00. Auch an Sonn- und Feiertagen!
   <i class="fa-solid fa-fw fa-bus"></i> 12A, 14A, 59A (Reinprechtsdorf Straße, Arbeitergasse)<br />
   <i class="fa-solid fa-fw fa-train"></i> R 3, R, REX 1, REX 2, REX 3, REX 9, S1, S2, S3, S4, S80 (Bahnhof Matzleinsdorfer Platz)
 </div>{: .notice--info}
-
-
