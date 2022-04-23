@@ -1,7 +1,7 @@
 ---
 title: Fachgebiete
 layout: single
-toc: true
+toc: false
 permalink: /fachgebiete/
 ---
 
