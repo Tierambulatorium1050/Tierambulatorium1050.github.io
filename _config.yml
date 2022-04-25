@@ -24,7 +24,7 @@ title: "Tierambulatorium Bacherplatz"
 logo: /assets/images/tab_animals.png
 email: praxis@vetcat.at
 description: >- # this means to ignore newlines until "baseurl:"
-  Beschreibung hier!
+  Tierambulatorium am Bacherplatz. Wir freuen uns, für Ihr Tier da sein zu dürfen.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: vetcat.at
 url: "https://vetcat.at" # the base hostname & protocol for your site, e.g. http://example.com
@@ -83,7 +83,7 @@ Sa:	09:30-11:30 <br/>
     - label: "praxis@vetcat.at"
       icon: "fa-solid fa-fw fa-envelope"
       url: "mailto:praxis@vetcat.at"
-    - label: "<a href="tel:+43154 54 976">01/54 54 976</a>"
+    - label: "+43 1 54 54 976"
       icon: "fa-solid fa-fw fa-phone"
       url: "/kontakt"
     - label: "Facebook"

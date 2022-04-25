@@ -12,7 +12,7 @@ excerpt: "Zentral gelegen und leicht zu erreichen."
 Mag. Corinna Rotsejdl  
 Arbeitergasse 4/4, 1050 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
-<i class="fas fa-fw fa-phone"></i> <a href="tel:+43154 54 976">01/54 54 976</a>
+<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice--info}
 
 **Unsere Öffnungszeiten:**

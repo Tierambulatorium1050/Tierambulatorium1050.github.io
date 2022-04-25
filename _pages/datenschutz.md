@@ -27,5 +27,5 @@ Tierambulatorium am Bacherplatz
 Mag. Corinna Rotsejdl
 Arbeitergasse 4/4
 1050 Wien
-Tel.: <a href="tel:+43154 54 976">01/54 54 976</a>
+Tel.: <a href="tel:+43 1 54 54 976">+43 1 54 54 976</a>
 E-Mail: praxis@vetcat.at
