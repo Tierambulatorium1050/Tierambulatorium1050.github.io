@@ -1,7 +1,7 @@
 ---
 title: Datenschutz
 layout: single
-toc: true
+toc: false
 permalink: /datenschutz/
 ---
 
