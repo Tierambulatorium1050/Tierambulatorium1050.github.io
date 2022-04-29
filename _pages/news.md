@@ -8,5 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/news.jpg
 excerpt: "Bei uns gibt es immer etwas neues"
+
+### Neuigkeiten
+
+Neuigkeiten vom Tierambulatorium am Bacherplatz finden Sie hier und auch auf unserer Facebook Seite!
+
 ---
 

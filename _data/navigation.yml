@@ -3,6 +3,8 @@ main:
     url: /buchungstool/
   - title: "News"
     url: /news/
+  - title: "Team"
+    url: /team/
   - title: "Leistungen"
     url: /leistungen/
   - title: "Kontakt"
