@@ -6,7 +6,7 @@ permalink: /fachgebiete/
 ---
 
 <i class="fa-solid fa-arrow-left-long"></i>  [Zurück zu den Leistungen](/leistungen/)
-Wir bieten Ihnen das komplette Leistungsspektrum der modernen Veterinärmedizin. All unsere Geräte sind top modern und sichern präzise Ergebnisse.
+Wir bieten Ihnen das komplette Leistungsspektrum der modernen Veterinärmedizin auf dem Niveau der größten Tierkliniken. Alle Geräte in unserer Ordination sind top modern und sichern präzise Ergebnisse.
 
 ## Schulmedizin
 

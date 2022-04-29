@@ -24,3 +24,4 @@ Aufgrund der Corona Pandemie gelten bei uns bis auf Weiteres folgende Maßnahmen
 - Tragen Sie bitte eine FFP2 Maske, wenn Sie die Ordination betreten.
 
 Wir danken Ihnen für Ihr Verständnis und bitten Sie um Ihre Mithilfe!
+
