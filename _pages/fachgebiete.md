@@ -6,19 +6,31 @@ permalink: /fachgebiete/
 ---
 
 <i class="fa-solid fa-arrow-left-long"></i>  [Zurück zu den Leistungen](/leistungen/)
+Wir bieten Ihnen das komplette Leistungsspektrum der modernen Veterinärmedizin. All unsere Geräte sind top modern und sichern präzise Ergebnisse.
 
 ## Schulmedizin
 
+- Vorsorgeuntersuchung
 - Innere Medizin
+- Ernährungsberatung
+- Hausapotheke
+- Hauseigenes Blutlabor
+- Ultraschall
+- EKG
+- Digitales Detektor Röntgen
 - Gynäkologie
 - Urologie
 - Dermatologie
+- Diagnostik
 - Kardiologie
 - Orthopädie
 - Chirurgie
-- Zahnbehandlung
+- Kastration
+- Geburtshilfe
+- Impfberatung und Impfungen
+- Zahnbehandlung und Zahnsanierung
 - Ophtalmologie
-
-
+- Schmerztherapie
+- Verhaltenstherapie
 
 <i class="fa-solid fa-arrow-left-long"></i>  [Zurück zu den Leistungen](/leistungen/)
