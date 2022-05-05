@@ -3,14 +3,14 @@ title: "Tierambulatorium am Bacherplatz"
 author_profile: true
 layout: home
 classes: wide
-excerpt: "Wir sind für Ihr Haustier da."
+excerpt: "Tierambulatorium am Bacherplatz. Wir sind für Ihr Haustier da."
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
   overlay_image: /assets/images/kontakt.jpg
 ---
 
-# Herzlich Willkommen im Tierambulatorium am Bacherplatz!
+# Herzlich Willkommen beim Tierambulatorium am Bacherplatz!
 
 **Liebe Tierbesitzerinnen und Tierbesitzer,**  
 wir freuen uns auf Ihren Besuch!
