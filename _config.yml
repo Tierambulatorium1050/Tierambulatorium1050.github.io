@@ -50,6 +50,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+      share: true
   # _posts
   - scope:
       path: ""
@@ -59,9 +60,10 @@ defaults:
       classes: wide
       show_date: true
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       related: false
+      share: true
 
 include: ["_pages"]
 

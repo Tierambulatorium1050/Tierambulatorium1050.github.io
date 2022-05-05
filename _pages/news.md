@@ -11,7 +11,6 @@ excerpt: "Bei uns gibt es immer etwas neues"
 
 ### Neuigkeiten
 
-Neuigkeiten vom Tierambulatorium am Bacherplatz finden Sie hier und auch auf unserer Facebook Seite!
-
 ---
+Neuigkeiten vom Tierambulatorium am Bacherplatz finden Sie hier und auch auf unserer Facebook Seite!
 
