@@ -3,7 +3,7 @@ title: "Tierambulatorium am Bacherplatz"
 author_profile: true
 layout: home
 classes: wide
-excerpt: "Tierambulatorium am Bacherplatz. Wir sind für Ihr Haustier da."
+excerpt: "Wir sind für Ihr Haustier da."
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
