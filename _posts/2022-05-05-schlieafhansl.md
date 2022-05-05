@@ -1,6 +1,6 @@
 ---
-title: "„Schliafhansel“, Granne oder Mäusegerste"
-excerpt: "„Schliafhansel“, auch Granne oder Mäusegerste genannt wächst nicht nur auf Feldern, sondern auch am Wegesrand und kann für Hunde zur echten Qual werden! Einmal ins Fell gelangt, bleiben sie mit ihren Widerhaken verankert."
+title: "„Schliafhansel“, auch Granne oder Mäusegerste genannt"
+excerpt: "Im Frühling und Sommer ist die Fellpflege besonders wichtig"
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
