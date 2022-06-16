@@ -1,7 +1,7 @@
 ---
 title: News
 classes: wide
-layout: archive
+layout: posts
 permalink: /news/
 header:
   overlay_color: "#000"
