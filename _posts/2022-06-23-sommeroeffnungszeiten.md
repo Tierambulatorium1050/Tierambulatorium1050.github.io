@@ -2,8 +2,6 @@
 title: "Sommeröffnungszeiten"
 excerpt: "in der Urlaubszeit"
 ---
-
-Sommeröffnungszeiten
 Liebe Tierbesitzerinnen und Tierbesitzer!
 Um für Sie, trotz Urlaubszeit, immer die beste Qualität unserer Leistungen anzubieten, haben wir unsere Öffnungszeiten für die Sommermonate geändert:
 Ab 1.7. sind wir für Sie zu folgenden Zeiten da:
