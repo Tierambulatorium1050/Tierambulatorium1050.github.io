@@ -13,15 +13,15 @@ header:
 # Herzlich Willkommen beim Tierambulatorium am Bacherplatz!
 
 **Liebe Tierbesitzerinnen und Tierbesitzer,**  
-wir freuen uns auf Ihren Besuch!
 
-Das Team unseres Ambulatoriums kümmert sich gerne um alle medizinischen Anliegen Ihres Haustieres. 
+mag. Corinna Rotsejdl und das Team des „Tierambulatorium am Bacherplatz“ kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
 
-Aufgrund der Corona Pandemie gelten bei uns bis auf Weiteres folgende Maßnahmen:
+Unsere Praxisräumlichkeiten in 1050 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Ordination mit der Leistung einer großen Tierklink zu vereinen.
 
-- Melden Sie sich bitte vor Ihrem Besuch bei uns an, um den Kontakt im Wartezimmer auf ein Mindestmaß zu beschränken.
+Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzumelden. Entweder in unserem Onlineterminkalender oder gerne auch telefonisch unter 01/5454976.
 
-- Tragen Sie bitte eine FFP2 Maske, wenn Sie die Ordination betreten.
+Aufgrund der Corona Pandemie tragen Sie bitte eine FFP2 Maske, wenn Sie die Ordination betreten. Vielen Dank!
 
-Wir danken Ihnen für Ihr Verständnis und bitten Sie um Ihre Mithilfe!
+Wir freuen uns auf Ihren Besuch!
+
 
