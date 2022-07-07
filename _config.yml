@@ -7,7 +7,7 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-# 
+#
 # If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
@@ -91,9 +91,9 @@ Fr:		              15:00-19:00<br/>"
     - label: "Facebook"
       icon: "fa-brands fa-fw fa-facebook"
       url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
-   - label: "Instagram"
-     icon: "fa-brands fa-fw fa-instagram"
-     url: "https://www.instagram.com/tierambulatoriumambacherplatz/"
+    - label: "Instagram"
+      icon: "fa-brands fa-fw fa-instagram"
+      url: "https://www.instagram.com/tierambulatoriumambacherplatz/"
 
 footer:
   links:
