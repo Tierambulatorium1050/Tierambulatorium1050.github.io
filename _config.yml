@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+ 
 name: "Tierambulatorium Bacherplatz"
 title: "Tierambulatorium Bacherplatz"
 #logo: /assets/images/tab_logo_2022.png
