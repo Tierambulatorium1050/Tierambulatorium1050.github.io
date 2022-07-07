@@ -91,9 +91,9 @@ Fr:		              15:00-19:00<br/>"
     - label: "Facebook"
       icon: "fa-brands fa-fw fa-facebook"
       url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
-    # - label: "Instagram"
-    #   icon: "fa-brands fa-fw fa-instagram"
-    #   url: "https://www.instagram.com/migo.vie/?hl=en"
+   - label: "Instagram"
+     icon: "fa-brands fa-fw fa-instagram"
+     url: "https://www.instagram.com/tierambulatoriumambacherplatz/"
 
 footer:
   links:
@@ -106,6 +106,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-facebook"
       url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
+    - label: "Instagram"
+     icon: "fa-brands fa-fw fa-instagram"
+     url: "https://www.instagram.com/tierambulatoriumambacherplatz/"
 
 atom_feed:
   hide: true
