@@ -16,7 +16,7 @@ header:
 
 Mag. Corinna Rotsejdl und das Team des „Tierambulatorium am Bacherplatz“ kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
 
-Unsere Praxisräumlichkeiten in 1050 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Ordination mit der Leistung einer großen Tierklink zu vereinen.
+Unsere Praxisräumlichkeiten in 1050 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Ordination mit der Leistung einer großen Tierklinik zu vereinen.
 
 Wir bieten Sprechstunden auf Deutsch, Englisch und auch Spanisch an.
 
