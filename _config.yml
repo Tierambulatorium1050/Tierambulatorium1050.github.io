@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
  
-name: "Tierambulatorium Bacherplatz"
-title: "Tierambulatorium Bacherplatz"
-#logo: /assets/images/tab_logo_2022.png
+name: Ihr Tierambulatorium im 5. Bezirk.
+title: Tierambulatorium Bacherplatz 
+tagline: Wir sind gerne für alle medizinischen Belange Ihres Haustieres da. Hund, Katze, Maus, alle Tiere sind bei uns willkommen.
+image: /assets/images/tab_logo_2022.png
 logo: /assets/images/tab_animals.png
 email: praxis@vetcat.at
-description: >- # this means to ignore newlines until "baseurl:"
-  Tierambulatorium am Bacherplatz. Wir freuen uns, für Ihr Tier da sein zu dürfen.
+locale: de_AT
+description:  Ihre kompetenten Tierärztinnen in 1050 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: vetcat.at
-url: "https://vetcat.at" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://vetcat.at # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 #github_username: migocode
 
