@@ -10,3 +10,6 @@ header:
 excerpt: "Diese Seite wird gerade überarbeitet!"
 ---
 
+Liebe Tierbesitzerinnen und Tierbesitzer, 
+wir arbeiten derzeit an einer umfangreichen neuen Seite, wo wir unser motiviertes und liebenswertes Team vorstellen! Wir bitten um etwas Geduld!
+
