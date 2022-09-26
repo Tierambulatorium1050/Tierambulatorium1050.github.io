@@ -27,6 +27,7 @@ Arbeitergasse 4/4, 1050 Wien
 | Freitag |  | 15:00 - 19:00 |
 
 **Ab 1.10.2022 erweitern wir unsere Öffnungszeiten für Sie:**
+
 |  | Vormittag | Nachmittag |
 |-------|--------|---------|
 | Montag | 09:30 - 14:00 | 14:00 - 19:00 |
