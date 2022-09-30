@@ -71,15 +71,7 @@ include: ["_pages"]
 author:
   name: "Tierambulatorium <br/>am Bacherplatz <br/> <br/>
   Mag. Corinna Rotsejdl"
-  bio: "<b>Unsere aktuellen Öffnungszeiten</b><br />
-Mo:	                15:00-19:00<br/>
-Di:	09:30-13:30<br/>
-Mi:		              15:00-19:00<br/>
-Do:		              15:00-19:00<br/>
-Fr:		              15:00-19:00<br/>
-<br/>
-<br/>
-<b>Ab 1.10.2022 erweitern wir unsere Öffnungszeiten für Sie:</b><br/>
+  bio: "<b>Unsere aktuellen Öffnungszeiten</b><br/>
 Mo: 09:30 - 19:00 <br/>
 Di: 09:30 - 19:00 <br/>
 Mi: 14:00 - 19:00 <br/>
