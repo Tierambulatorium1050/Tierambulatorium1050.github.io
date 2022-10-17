@@ -12,7 +12,9 @@ permalink: /diagnostik/
 Wir bieten Röntgenuntersuchungen mit unserer hochmodernen digitalen Detektor-Röntgenanlage. Dank der sensationellen Bildqualität des Röntgengerätes, lassen sich Verletzungen im Bereich des Skelett- und tw. des Bänderapparats schnell und einfach diagnostizieren. Auch Veränderungen an den Organen (Herz, Lunge oder zB Darm oder Blase) oder an den Zähnen können erkannt werden. Das Röntgenbild ist seit jeher ein wichtiges diagnostisches Hilfsmittel in der tierärztlichen Praxis. Die neue digitalen detektor technologie hebt dieses Hilfsmittel auf ein ganz neues Niveau.
 
 ![Röntgenanlage](/assets/images/roe1s.jpeg)
+
 ![Detektor Röntgen](/assets/images/roe2s.jpeg)
+
 ### Labor
 
 Mit unserem modernen in-house Labor können wir alle gängigen Blutuntersuchungen direkt bei uns in der Ordination durchführen. 
