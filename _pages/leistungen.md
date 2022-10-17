@@ -15,14 +15,14 @@ feature_row:
     url: "/fachgebiete/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/animal6.jpg
+  - image_path: /assets/images/animal9.jpg
     alt: "Diagnostik"
     title: "Diagnostik"
     excerpt: "Rönten, Ultraschall, EKG, Labor, Blutdruckmessung"
     url: "/diagnostik/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/animal9.jpg
+  - image_path: /assets/images/kitten.jpg
     alt: "Medizinische Betreuung"
     title: "Medizinische Betreuung"
     excerpt: "Gesundheitsvorsorge, Altersvorsorge, Ernährungsberatung / B.A.R.F.E.N., Chippen & EU-Impfpass, Hausbesuche, Hausapotheke, Impfberatung, Nagelberatung, **Stationäre Aufnahme möglich**"
