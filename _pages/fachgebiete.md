@@ -32,5 +32,8 @@ Wir bieten Ihnen das komplette Leistungsspektrum der modernen Veterinärmedizin 
 - Ophtalmologie
 - Schmerztherapie
 - Verhaltenstherapie
+- Kleine Heimtiere
+- Vögel
+
 
 <i class="fa-solid fa-arrow-left-long"></i>  [Zurück zu den Leistungen](/leistungen/)

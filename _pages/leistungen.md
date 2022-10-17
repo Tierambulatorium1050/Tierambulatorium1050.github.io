@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/animal2.jpg
 excerpt: "Das Hauptanliegen unseres Teams ist, Erkrankungen Ihrer Haustiere durch Vorsorge zu vermeiden bzw. Krankheiten bereits im Frühstadium zu erkennen und zu heilen."
 feature_row:
-  - image_path: /assets/images/animal8.jpg
+  - image_path: /assets/images/bjelle_m.jpg
     alt: "Fachgebiete"
     title: "Fachgebiete"
     excerpt: "Innere Medizin, Gynäkologie, Urologie, Dermatologie, Kardiologie, Orthopädie, Chirurgie, Zahnbehandlung, Ophtalmologie"
