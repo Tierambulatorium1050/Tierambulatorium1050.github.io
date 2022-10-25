@@ -26,4 +26,13 @@ Aufgrund der Corona Pandemie tragen Sie bitte eine FFP2 Maske, wenn Sie die Ordi
 
 Wir freuen uns auf Ihren Besuch!
 
+**Unsere Öffnungszeiten:**
 
+|  | Vormittag | Nachmittag |
+|-------|--------|---------|
+| Montag | 09:30 - 14:00 | 14:00 - 19:00 |
+| Dienstag | 09:30 - 14:00 | 14:00 - 19:00 |
+| Mittwoch | | 14:00 - 19:00 |
+| Donnerstag | | 14:00 - 19:00 |
+| Freitag | 09:30 - 14:00 | 14:00 - 19:00 |
+| Samstag | 09:30 - 13:30 |  | 

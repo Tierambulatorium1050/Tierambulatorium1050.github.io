@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/kitten.jpg
     alt: "Medizinische Betreuung"
     title: "Medizinische Betreuung"
-    excerpt: "Gesundheitsvorsorge, Altersvorsorge, Ernährungsberatung / B.A.R.F.E.N., Chippen & EU-Impfpass, Hausbesuche, Hausapotheke, Impfberatung, Nagelberatung, **Stationäre Aufnahme möglich**"
+    excerpt: "Gesundheitsvorsorge, Altersvorsorge, Ernährungsberatung / B.A.R.F.E.N., Chippen & EU-Impfpass, Hausbesuche, Hausapotheke, Impfberatung, Nagerberatung, Stationäre Aufnahme möglich"
     url: "/medizinische-betreuung/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"
