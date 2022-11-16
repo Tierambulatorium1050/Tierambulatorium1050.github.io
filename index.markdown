@@ -25,7 +25,7 @@ Aufgrund der Corona Pandemie tragen Sie bitte eine FFP2 Maske, wenn Sie die Ordi
 
 Wir freuen uns auf Ihren Besuch!
 
-### Unsere Öffnungszeiten:
+## Unsere Öffnungszeiten:
 
 |  | Vormittag | Nachmittag |
 |-------|--------|---------|
