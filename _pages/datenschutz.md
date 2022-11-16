@@ -1,5 +1,6 @@
 ---
 title: Datenschutz
+description: Der Schutz Ihrer Daten ist uns wichtig!
 layout: single
 toc: false
 permalink: /datenschutz/

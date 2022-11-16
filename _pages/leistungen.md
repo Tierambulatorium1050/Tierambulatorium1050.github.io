@@ -1,5 +1,6 @@
 ---
-title: "Leistungen"
+title: Leistungen
+description: So können wir Ihrem Tier helfen
 layout: splash
 permalink: /leistungen/
 header:

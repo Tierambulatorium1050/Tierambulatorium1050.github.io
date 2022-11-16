@@ -1,5 +1,6 @@
 ---
 title: News
+description: Hier finden Sie aktuelle Postings von uns
 classes: wide
 layout: posts
 permalink: /news/
@@ -12,5 +13,5 @@ excerpt: "Bei uns gibt es immer etwas Neues"
 ### Neuigkeiten
 
 ---
-Neuigkeiten vom Tierambulatorium am Bacherplatz finden Sie hier und auch auf unserer Facebook Seite!
+Neuigkeiten vom Tierambulatorium am Bacherplatz finden Sie hier, aber auch auf unseren Facebook und Instagram Seiten!
 

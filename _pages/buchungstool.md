@@ -1,5 +1,6 @@
 ---
-title: "Terminbuchung"
+title: Terminbuchung
+description: Buchen Sie hier Ihren Termin!
 layout: single
 permalink: /buchungstool/
 header:

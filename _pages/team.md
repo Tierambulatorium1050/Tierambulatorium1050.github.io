@@ -1,5 +1,6 @@
 ---
 title: Team
+description: Wir sind aus Überzeugung für Tiere da.
 classes: wide
 layout: single
 permalink: /team/

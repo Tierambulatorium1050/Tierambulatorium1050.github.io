@@ -1,5 +1,6 @@
 ---
 title: Impressum
+description: Unser impressum
 toc: false
 permalink: /impressum/
 ---
