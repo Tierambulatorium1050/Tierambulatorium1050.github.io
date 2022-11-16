@@ -1,5 +1,6 @@
 ---
-title: "Neue Website"
+title: Neue Website
+description: unsere neue Website
 excerpt: "Neue Website mit Terminbuchungstool!"
 ---
 

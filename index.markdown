@@ -1,5 +1,6 @@
 ---
-title: "Tierambulatorium am Bacherplatz"
+title: Herzlich Willkommen!
+description: Wir sind für Ihr Haustier da.
 author_profile: true
 layout: home
 classes: wide
@@ -10,11 +11,9 @@ header:
   overlay_image: /assets/images/kontakt.jpg
 ---
 
-# Herzlich Willkommen beim Tierambulatorium am Bacherplatz!
-
 **Liebe Tierbesitzerinnen und Tierbesitzer,**  
 
-Mag. Corinna Rotsejdl und das Team des „Tierambulatorium am Bacherplatz“ kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
+Mag. Corinna Rotsejdl und das Team des Tierambulatorium am Bacherplatz kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
 
 Unsere Praxisräumlichkeiten in 1050 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Ordination mit der Leistung einer großen Tierklinik zu vereinen.
 
@@ -26,7 +25,7 @@ Aufgrund der Corona Pandemie tragen Sie bitte eine FFP2 Maske, wenn Sie die Ordi
 
 Wir freuen uns auf Ihren Besuch!
 
-**Unsere Öffnungszeiten:**
+## Unsere Öffnungszeiten:
 
 |  | Vormittag | Nachmittag |
 |-------|--------|---------|
