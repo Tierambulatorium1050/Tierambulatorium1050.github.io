@@ -1,6 +1,7 @@
 ---
-title: "Wir erweitern unsere Öffnungszeiten!"
-excerpt: "ab 1.10.2022 sind wir länger für Sie da."
+title: Neue Öffnungszeiten
+description: Wir erweitern unsere Öffnungszeiten!
+excerpt: ab 1.10.2022 sind wir länger für Sie da.
 ---
 Liebe Tierbesitzerinnen und Tierbesitzer!
 Nachdem wir in der Urlaubszeit mit verkürzten Öffnungszeiten gearbeitet haben, sind wir ab Oktober wieder mit wesentlich längeren Öffnungszeiten für Sie da. Auch an Samstagen haben wir künftig wieder geöffnet.
