@@ -15,7 +15,7 @@ feature_row:
     url: "/fachgebiete/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/animal9.jpg
+  - image_path: /assets/images/ultraschall.jpeg
     alt: "Diagnostik"
     title: "Diagnostik"
     excerpt: "Rönten, Ultraschall, EKG, Labor, Blutdruckmessung"
