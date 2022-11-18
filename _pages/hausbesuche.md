@@ -26,6 +26,7 @@ Arbeitergasse 4/4, 1050 Wien
 
 
 **Tierärztliche Hausbesuche in Wien:**
+
 Gerne übernehmen wir auch Hausbesuche um Sie und Ihr Tier zu unterstützen, wenn der Weg in die Praxis nur schwer möglich ist. Ebenso, um Ihrem Tier unnötigen Stress zu ersparen - vor allem natürlich dann, wenn Ihr Tier eingeschläfert werden muss.
 
 Bitte bedenken Sie aber, dass eine gründliche Untersuchung oder Behandlung Ihres Tieres zu Hause oft eingeschränkt möglich ist. Tiere sind zu Hause oft schwieriger zu handeln als in der Praxis und schätzen das Eindringen in ihr Revier bzw. ihr Zuhause oft gar nicht!
