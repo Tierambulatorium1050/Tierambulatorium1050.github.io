@@ -4,6 +4,23 @@ description: Unsere diagnostischen Möglichkeiten!
 layout: single
 toc: false
 permalink: /diagnostik/
+
+feature_row:
+  - image_path: /assets/images/roe1s.jpeg
+    alt: "Röntgenanlage"
+    title: "Röntgenanlage"
+    excerpt: "Wir haben 2022 in eine komplett neue Röntgenanlage am letzten Stand der Technik investiert. Das Hightech Gerät produziert erheblich bessere Bilder bei einer wesentlich verringerten Strahlendosis."
+
+  - image_path: /assets/images/roe2s.jpeg
+    alt: "Detektor Röntgen"
+    title: "Detektor Röntgen"
+    excerpt: "Der Flachbilddetektor von FUJIFILM ist das Herzstück unserer Röntgenanlage und macht den Unterschied in Hinblick auf die Bildqualität."
+
+  - image_path: /assets/images/roentgenbild.jpeg
+    alt: "Röntgenbild"
+    title: "Röntgenbild"
+    excerpt: "Die modernen Geräte ermöglichen uns hochauflösende aufnahmen bei kleinstmöglicher Strahlendosis. Die intelligente Software von FUJIFILM stellt zum Schluss noch die Bildparameter perfekt ein."
+    
 ---
 
 <i class="fa-solid fa-arrow-left-long"></i> [Zurück zu den Leistungen](/leistungen/)
@@ -12,9 +29,7 @@ permalink: /diagnostik/
 
 Wir bieten Röntgenuntersuchungen mit unserer hochmodernen digitalen Detektor-Röntgenanlage. Dank der sensationellen Bildqualität des Röntgengerätes, lassen sich Verletzungen im Bereich des Skelett- und tw. des Bänderapparats schnell und einfach diagnostizieren. Auch Veränderungen an den Organen (Herz, Lunge oder zB Darm oder Blase) oder an den Zähnen können erkannt werden. Das Röntgenbild ist seit jeher ein wichtiges diagnostisches Hilfsmittel in der tierärztlichen Praxis. Die neue digitalen detektor technologie hebt dieses Hilfsmittel auf ein ganz neues Niveau.
 
-![Röntgenanlage](/assets/images/roe1s.jpeg)
-
-![Detektor Röntgen](/assets/images/roe2s.jpeg)
+{% include feature_row %}
 
 ## In-House Labor
 

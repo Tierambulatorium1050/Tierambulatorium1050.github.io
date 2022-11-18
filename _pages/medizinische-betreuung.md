@@ -40,6 +40,9 @@ Gerne übernehmen wir auch Hausbesuche um Sie zu unterstützen, wenn ein Transpo
 
 Bitte bedenken Sie aber, dass eine gründliche Untersuchung oder Behandlung Ihres Tieres zu Hause oft nicht möglich ist - Tiere  sind zu Hause oft schwieriger zu handhaben als in der Praxis und schätzen das Eindringen in ihr Revier bzw ihren geschützten Bereich oft gar nicht!
 
+[Mehr zum Thema Hausbesuche](./hausbesuche.md)
+
+
 ## Hausapotheke
 
 Wir führen eine tierärztliche Hausapotheke, um Sie möglichst schnell und unkompliziert mit den nötigen Medikamenten für Ihre Tiere versorgen zu können.
@@ -61,5 +64,7 @@ Gerade was die Ernährung betrifft, gibt es noch viele Mißverständnisse, die i
 Wir empfehlen ausserdem, unsere kleinen Patienten zumindest 1x jährlich zur Kontrolle des Gebisses bei uns vorzustellen, um Probleme in diesem Bereich, die leider recht häufig sind, frühzeitig zu erkennen und gegebenenfalls behandeln zu können.
 
 Für Fragen rund um die kleinen Heimtiere stehen wir Ihnen gern zur Verfügung!
+
+![Ultraschall](/assets/images/ratte.jpg)
 
 <i class="fa-solid fa-arrow-left-long"></i>  [Zurück zu den Leistungen](/leistungen/)
