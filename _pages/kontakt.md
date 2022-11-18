@@ -44,6 +44,4 @@ Wir sind Ihr idealer Ansprechpartner für Tiergesundheit, mitten in 1050 Wien.
   <i class="fa-solid fa-fw fa-train"></i> R 3, R, REX 1, REX 2, REX 3, REX 9, S1, S2, S3, S4, S80 (Bahnhof Matzleinsdorfer Platz)
 </div>{: .notice--info}
 
-
-Unser Einzugsgebiet geht weit über den 5. Wiener Gemeindebezirk hinaus: Favoriten (1100) (Insbesondere Hauptbahnhof und Sonnwendviertel), Landstraße (1030), Meidling (1120), Mariahilf (1060), Neubau (1070), Rudolfsheim-Fünfhaus (1150) und der 1. Bezirk, Innere Stadt (1010). 
-Aber auch aus ganz Wien und sogar Niederösterreich betreuen wir häufig neue Patienten und deren Besitzer.
+[Lage und Anfahrt](./lage.md)
