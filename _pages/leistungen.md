@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/ultraschall.jpeg
     alt: "Diagnostik"
     title: "Diagnostik"
-    excerpt: "Rönten, Ultraschall, EKG, Labor, Blutdruckmessung"
+    excerpt: "Detektor Röngten, Ultraschall, EKG, In-House Labor, Blutdruckmessung"
     url: "/diagnostik/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"

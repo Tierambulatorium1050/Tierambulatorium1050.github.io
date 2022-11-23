@@ -9,3 +9,6 @@ main:
     url: /leistungen/
   - title: "Kontakt"
     url: /kontakt/
+  - title: "English"
+    url: /english/
+    
