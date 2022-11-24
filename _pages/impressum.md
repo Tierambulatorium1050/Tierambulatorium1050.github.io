@@ -13,13 +13,13 @@ header:
 
 **Tierambulatorium am Bacherplatz**
 
-Tierarztpraxis "Tierambulatorium am Bacherplatz - Mag. Corinna Rotsejdl"  
-Arbeitergasse 4/4  
-1050 Wien
-Österreich
-Website: [www.vetcat.at](https://www.vetcat.at)
-UID Nummer: ATU77816026
-Tel.:<a href="tel: +43 1 54 54 976">+43 1 54 54 976</a>  
+Tierarztpraxis "Tierambulatorium am Bacherplatz - Mag. Corinna Rotsejdl"<br />
+Arbeitergasse 4/4<br />
+1050 Wien<br />
+Österreich<br />
+Website: [www.vetcat.at](https://www.vetcat.at)<br />
+UID Nummer: ATU77816026<br />
+Tel.:<a href="tel: +43 1 54 54 976">+43 1 54 54 976</a><br />
 E-Mail: [praxis@vetcat.at](mailto:praxis@vetcat.at)
 
 **Hinweis: neue Inhaberin seit 1.3.2022**
