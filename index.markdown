@@ -17,7 +17,7 @@ Mag. Corinna Rotsejdl und das Team des Tierambulatorium am Bacherplatz kümmern 
 
 Unsere Praxisräumlichkeiten in 1050 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Ordination mit der Leistung einer großen Tierklinik zu vereinen.
 
-Wir bieten Sprechstunden auf Deutsch, Englisch und Spanisch an.
+Wir bieten Sprechstunden auf Deutsch, [Englisch](/english/) und Spanisch an.
 
 Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzumelden. Entweder in unserem <b>[Onlineterminkalender](/buchungstool/)</b> oder gerne auch telefonisch unter <b><a href="tel:+43 1 54 54 976">+43 1 54 54 976</a></b>.
 
