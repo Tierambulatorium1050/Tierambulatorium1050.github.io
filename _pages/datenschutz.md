@@ -4,6 +4,10 @@ description: Der Schutz Ihrer Daten ist uns wichtig!
 layout: single
 toc: false
 permalink: /datenschutz/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/cookie_ds.jpg
 ---
 
 **Allgemein** 
@@ -52,6 +56,7 @@ Google Conversion Tracking Tag
 Auf dieser Website kommt das Google Conversion Tag zum Einsatz. Conversion Tag ist ein Tool zur Bestätigung von Buchungen über google ads. Das Tool selbst erfasst keine personenbezogenen Daten. Es erfasst lediglich eine technische ID. 
 [Details in der Anleidung zu Google Tags](https://developers.google.com/tag-platform/devguides/cross-domain)
 [Datenschutzerklärung von Google](https://policies.google.com/privacy)
+[Datenverarbeitungsbedingungen für Google Ads](https://privacy.google.com/businesses/processorterms/)
 Informationen zum Drittanbieter:
 -	Google Ireland Limited, Google Building Gordon House, Barrow St, Dublin 4, Irland
 
