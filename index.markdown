@@ -1,6 +1,6 @@
 ---
 title: Herzlich Willkommen!
-description: "Tierarzt Wien : Wir sind für Ihr Haustier da."
+description: "Liebevolles Tierarzt Team in 1050 Wien | Modernste Geräte | Ultraschall, Digital Röntgen | Gut erreichbar"
 author_profile: true
 layout: home
 classes: wide
