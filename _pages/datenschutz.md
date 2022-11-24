@@ -12,7 +12,7 @@ header:
 
 **Allgemein** 
 
-Der Schutz Ihrer Daten ist uns, ein wichtiges Anliegen. Ihre personenbezogenen Daten verarbeiten wir daher ausschließlich im Rahmen der gesetzlichen Bestimmungen, insbesondere der Datenschutzgrundverordnung (DSGVO), des Datenschutzgesetzes (DSG) und des Telekommunikationsgesetzes 2021 (TKG). Im Folgenden möchten wir Sie umfassend über den Umgang mit Ihren personenbezogenen Daten sowie über Ihre Rechte als Betroffener einer Datenverarbeitung informieren. 
+Der Schutz Ihrer Daten ist uns ein wichtiges Anliegen. Ihre personenbezogenen Daten verarbeiten wir daher ausschließlich im Rahmen der gesetzlichen Bestimmungen, insbesondere der Datenschutzgrundverordnung (DSGVO), des Datenschutzgesetzes (DSG) und des Telekommunikationsgesetzes 2021 (TKG). Im Folgenden möchten wir Sie umfassend über den Umgang mit Ihren personenbezogenen Daten sowie über Ihre Rechte als Betroffener einer Datenverarbeitung informieren. 
 
 **Personenbezogene Daten**
 
@@ -74,11 +74,11 @@ Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht v
 
 **Datenschutzbeauftragter und Verantwortliche**
 
-Anfragen und die Geltendmachung Ihrer Rechte können Sie jederzeit sowohl an unsere E-Mail als auch an unsere Postadresse richten:
+Anfragen und die Geltendmachung Ihrer Rechte können Sie jederzeit sowohl an unsere E-Mail als auch an unsere Postadresse richten:<br />
 
-Tierambulatorium am Bacherplatz
-Mag. Corinna Rotsejdl
-Arbeitergasse 4/4
-1050 Wien
-Tel.: <a href="tel:+43 1 54 54 976">+43 1 54 54 976</a>
+Tierambulatorium am Bacherplatz<br />
+Mag. Corinna Rotsejdl<br />
+Arbeitergasse 4/4<br />
+1050 Wien<br />
+Tel.: <a href="tel:+43 1 54 54 976">+43 1 54 54 976</a><br />
 E-Mail: <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
