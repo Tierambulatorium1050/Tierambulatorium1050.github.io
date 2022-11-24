@@ -8,6 +8,26 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/animal2.jpg
 excerpt: "Das Hauptanliegen unseres Teams ist, Erkrankungen Ihrer Haustiere durch Vorsorge zu vermeiden bzw. Krankheiten bereits im Frühstadium zu erkennen und zu heilen."
+redirect_from:
+  - /leistungen/1
+  - /leistungen/2
+  - /leistungen/3
+  - /leistungen/4
+  - /leistungen/5
+  - /leistungen/6
+  - /leistungen/7
+  - /leistungen/8
+  - /leistungen/9
+  - /leistungen/10
+  - /leistungen/11
+  - /leistungen/12
+  - /leistungen/13
+  - /leistungen/14
+  - /leistungen/15
+  - /leistungen/16
+  - /leistungen/23
+  - /leistungen/29
+  
 feature_row:
   - image_path: /assets/images/bjelle_m.jpeg
     alt: "Fachgebiete"

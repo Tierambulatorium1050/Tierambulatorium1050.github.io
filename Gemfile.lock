@@ -296,6 +296,7 @@ DEPENDENCIES
   jekyll (~> 3.9)
   jekyll-feed (~> 0.12)
   jekyll-include-cache
+  jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
   minimal-mistakes-jekyll

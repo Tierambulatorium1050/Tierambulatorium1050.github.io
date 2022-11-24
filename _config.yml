@@ -44,6 +44,7 @@ plugins:
   - jekyll-data
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 defaults:
