@@ -2,6 +2,7 @@
 title: Terminbuchung
 description: Buchen Sie hier Ihren Termin!
 layout: single
+author_profile: true
 permalink: /buchungstool/
 header:
   overlay_color: "#000"

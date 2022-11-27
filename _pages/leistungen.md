@@ -1,7 +1,7 @@
 ---
 title: Leistungen
 description: So können wir Ihrem Tier helfen
-layout: splash
+layout: single
 permalink: /leistungen/
 header:
   overlay_color: "#000"
