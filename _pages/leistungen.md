@@ -32,7 +32,7 @@ feature_row:
   - image_path: /assets/images/bjelle_m.jpeg
     alt: "Fachgebiete"
     title: "Fachgebiete"
-    excerpt: "Innere Medizin, Gynäkologie, Urologie, Dermatologie, Kardiologie, Orthopädie, Chirurgie, Zahnbehandlung, Ophtalmologie"
+    excerpt: "Innere Medizin, Gynäkologie, Urologie, Dermatologie, Kardiologie, Orthopädie, Chirurgie, Zahnbehandlung, Ophthalmologie"
     url: "/fachgebiete/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"

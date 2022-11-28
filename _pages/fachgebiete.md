@@ -31,7 +31,7 @@ Wir bieten Ihnen das komplette Leistungsspektrum der modernen Veterinärmedizin 
 - Geburtshilfe
 - Impfberatung und Impfungen
 - Zahnbehandlung und Zahnsanierung
-- Ophtalmologie
+- Ophthalmologie
 - Schmerztherapie
 - Verhaltenstherapie
 - Kleine Heimtiere
