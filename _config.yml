@@ -22,8 +22,8 @@ name: "Ihr Tierarzt in 1050 Wien"
 title: "Tierambulatorium Bacherplatz"
 tagline: "Ihr Tierarzt in Wien"
 description:  "Ihre kompetenten Tierärztinnen in 1050 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
-image: "/assets/images/tab_logo_2022.png"
-logo: "/assets/images/tab_animals.png"
+image: "/assets/images/tab_animals_sml.png"
+logo: "/assets/images/tab_animals_sml.png"
 email: "praxis@vetcat.at"
 locale: de_AT
 baseurl: "" # the subpath of your site, e.g. /blog
