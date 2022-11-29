@@ -6,17 +6,17 @@ toc: false
 permalink: /diagnostik/
 
 feature_row:
-  - image_path: {{ "/assets/images/roe1s.jpeg" | resize: "400x400>" }}
+  - image_path: "/assets/images/roe1s.jpeg"
     alt: "Röntgenanlage"
     title: "Röntgenanlage"
     excerpt: "Wir haben 2022 in eine komplett neue Röntgenanlage am letzten Stand der Technik investiert. Das Hightech Gerät produziert erheblich bessere Bilder bei einer wesentlich verringerten Strahlendosis."
 
-  - image_path: {{ "/assets/images/roe2s.jpeg" | resize: "400x400>" }}
+  - image_path: "/assets/images/roe2s.jpeg"
     alt: "Detektor Röntgen"
     title: "Detektor Röntgen"
     excerpt: "Der Flachbilddetektor von FUJIFILM ist das Herzstück unserer Röntgenanlage und macht den Unterschied in Hinblick auf die Bildqualität."
 
-  - image_path: {{ "/assets/images/roentgenbild.jpeg" | resize: "400x400>" }}
+  - image_path: "/assets/images/roentgenbild.jpeg"
     alt: "Röntgenbild"
     title: "Röntgenbild"
     excerpt: "Die modernen Geräte ermöglichen uns hochauflösende aufnahmen bei kleinstmöglicher Strahlendosis. Die intelligente Software von FUJIFILM stellt zum Schluss noch die Bildparameter perfekt ein."

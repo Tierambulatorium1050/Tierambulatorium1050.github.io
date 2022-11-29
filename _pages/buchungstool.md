@@ -7,7 +7,7 @@ permalink: /buchungstool/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: {{ "/assets/images/termin.jpg" | resize: "800x800>" }}
+  overlay_image: "/assets/images/termin.jpg"
 excerpt: "Ihr Termin bei uns in 1050 Wien"
 ---
 ### Buchen Sie Ihren Tierarzttermin gleich online... 
