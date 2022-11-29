@@ -8,18 +8,18 @@ permalink: /english/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/kontakt.jpg
+  overlay_image: ({{ "/assets/images/kontakt.jpg" | resize: "800x800>" }})
 excerpt: "Best medical care for your pet"
 feature_row:
-  - image_path: /assets/images/bjelle_m.jpeg
+  - image_path: {{ "/assets/images/bjelle_m.jpeg" | resize: "400x400>" }}
     alt: "Areas of expertise"
     title: "Areas of expertise"
     excerpt: "Internal medicine, gynecology, urology, dermatology, cardiology, orthopedics, surgery, dental treatment, ophthalmology"
-  - image_path: /assets/images/ultraschall.jpeg
+  - image_path: {{ "/assets/images/ultraschall.jpeg" | resize: "400x400>" }}
     alt: "Diagnostics"
     title: "Diagnostics"
     excerpt: "Digital X-ray, ultrasound, ECG, in-house laboratory, blood pressure measurement"
-  - image_path: /assets/images/kitten.jpg
+  - image_path: {{ "/assets/images/kitten.jpg" | resize: "400x400>" }}
     alt: "Medical care"
     title: "Medical care"
     excerpt: "Health care, old-age provisions, nutritional advice, Chip (transponder) implantation & EU vaccination passport, home visits, in-house pharmacy, vaccination advice, rodent advice"

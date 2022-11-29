@@ -6,17 +6,17 @@ toc: false
 permalink: /diagnostik/
 
 feature_row:
-  - image_path: /assets/images/roe1s.jpeg
+  - image_path: {{ "/assets/images/roe1s.jpeg" | resize: "400x400>" }}
     alt: "Röntgenanlage"
     title: "Röntgenanlage"
     excerpt: "Wir haben 2022 in eine komplett neue Röntgenanlage am letzten Stand der Technik investiert. Das Hightech Gerät produziert erheblich bessere Bilder bei einer wesentlich verringerten Strahlendosis."
 
-  - image_path: /assets/images/roe2s.jpeg
+  - image_path: {{ "/assets/images/roe2s.jpeg" | resize: "400x400>" }}
     alt: "Detektor Röntgen"
     title: "Detektor Röntgen"
     excerpt: "Der Flachbilddetektor von FUJIFILM ist das Herzstück unserer Röntgenanlage und macht den Unterschied in Hinblick auf die Bildqualität."
 
-  - image_path: /assets/images/roentgenbild.jpeg
+  - image_path: {{ "/assets/images/roentgenbild.jpeg" | resize: "400x400>" }}
     alt: "Röntgenbild"
     title: "Röntgenbild"
     excerpt: "Die modernen Geräte ermöglichen uns hochauflösende aufnahmen bei kleinstmöglicher Strahlendosis. Die intelligente Software von FUJIFILM stellt zum Schluss noch die Bildparameter perfekt ein."
@@ -42,7 +42,7 @@ Dank unseres in-house Labors können entfällt die übliche Wartezeit auf das Er
 Unser top modernes Ultraschallgerät erlaubt uns die sonografische Untersuchung Ihres Lieblings. Dabei bringt das Gerät Schallwellen außerhalb des hörbaren Bereiches zum Einsatz. Diese schallwellen werden bei der Untersuchung an den Grenzflächen der Organe reflektiert und das Ultraschallgerät stellt diese Informationen dann als Bild dar.
 Schallwellen eignen sich besonders zur Untersuchung von Bauchorganen und Weichteilen. Ebenso ist die Kontrolle einer Trächtigkeit ein wichtiger Anwendungsfall. 
 
-![Ultraschall](/assets/images/ultraschall.jpeg)
+![Ultraschall]({{ "/assets/images/ultraschall.jpeg" | resize: "400x400>" }})
 
 
 ## Blutdruck Messung
