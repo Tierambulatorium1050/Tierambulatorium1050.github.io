@@ -3,6 +3,7 @@ title: Impressum
 description: Impressum des Tierambulatorium am Bacherplatz Tierarztpraxis 1050 Wien
 excerpt: Impressum des Tierambulatorium am Bacherplatz, 1050 Wien
 toc: false
+layout: single
 author_profile: true
 permalink: /impressum/
 header:

@@ -9,9 +9,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/news.jpg
 excerpt: Bei uns gibt es immer etwas Neues
-redirect_from:
-  - /aktuelles
-
 
 ---
 

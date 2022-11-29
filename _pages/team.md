@@ -9,8 +9,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/team.jpg
 excerpt: "Unser Team arbeitet aus liebe zum Tier."
-redirect_from:
-  - /team
 ---
 
 Liebe Tierbesitzerinnen und Tierbesitzer, 

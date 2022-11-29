@@ -8,8 +8,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/title.jpg
 excerpt: "Zentral gelegen und leicht zu erreichen."
-redirect_from:
-  - /kontakt
 ---
 
 **Tierambulatorium am Bacherplatz im 5. Bezirk**  
