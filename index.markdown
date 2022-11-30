@@ -1,5 +1,5 @@
 ---
-title: Herzlich Willkommen beim <br>Tierambulatorium am Bacherplatz <br> Ihrem Tierarzt Team in 1050 Wien!
+title: Tierambulatorium am Bacherplatz, <br>Ihr Tierarzt Team in 1050 Wien!
 description: "Liebevolles Tierarzt Team in 1050 Wien, Modernste Geräte, Ultraschall, Digital Röntgen, In-House Labor, Bestes Service, Günstig gelegen, Tierambulatorium im 5. Bezirk."
 layout: home
 classes: wide
