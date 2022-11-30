@@ -1,5 +1,5 @@
 ---
-title: Herzlich Willkommen!
+title: Herzlich Willkommen bei Ihrem Tierarzt Team in 1050 Wien!
 description: "Liebevolles Tierarzt Team in 1050 Wien, Modernste Geräte, Ultraschall, Digital Röntgen, Bestes Service, Günstig gelegen, Tierarztpraxis, Tierarzt Wien"
 layout: home
 classes: wide
@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/kontakt.jpg
 ---
 
-**Liebe Tierbesitzerinnen und Tierbesitzer,**  
+## Liebe Tierbesitzerinnen und Tierbesitzer,
 
 Mag. Corinna Rotsejdl und das Team des Tierambulatorium am Bacherplatz kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
 
