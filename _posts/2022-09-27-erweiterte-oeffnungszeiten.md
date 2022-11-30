@@ -16,6 +16,3 @@ Sa: 09:30-13:30<br />
 
 Liebe Grüße, <br />
 Mag. Corinna Rotsejdl und das Team vom Tierambulatorium am Bacherplatz
-
-![Katze und Hund](/assets/images/animal8.jpg)
-
