@@ -15,7 +15,7 @@ excerpt: "Wenn es hilft, kommen wir gerne zu Ihnen."
 Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei uns ausmachen! Sollten Sie dabei einen Hausbesuch wünschen, geben Sie das bitte extra an!
 [Buchungstool](./buchungstool.md)
 
-**Ihre Tierärztin in Wien**
+**Ihre TierärztInnen in Wien**
 
 Mag. Corinna Rotsejdl  
 Arbeitergasse 4/4, 1050 Wien  
@@ -33,7 +33,7 @@ Bitte bedenken Sie aber, dass eine gründliche Untersuchung oder Behandlung Ihre
 
 Wir sind stets bemüht für Sie kosteneffiziente Lösungen zu finden, deshalb weisen wir darauf hin, dass ein Hausbesuch aufgrund des Aufwandes mit Mehrkosten verbunden ist. Ein Besuch in der Ordination ist günstiger.
 
-**Ihr Tierarzt in Wien!**
+**Ihr Tierarzt-team in 1050 Wien!**
 
 Wir besuchen Sie gerne im 5. Bezirk, aber auch in:
 * 1030 Wien (3. Bezirk, Landstraße),
