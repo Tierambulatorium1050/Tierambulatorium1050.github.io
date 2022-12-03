@@ -10,7 +10,7 @@ gallery:
     image_path: assets/images/chirurgie2.jpeg
     alt: "Chirurgie"
     title: "Chirurgie - Kastration einer weiblichen Katze"
-  - url: assets/images/blutruck_large.jpeg
+  - url: assets/images/blutdruck_large.jpeg
     image_path: assets/images/blutdruck.jpeg
     alt: "Blutdruckmessung bei einem Hund"
     title:  "Blutdruckmessung bei einem Hund"
