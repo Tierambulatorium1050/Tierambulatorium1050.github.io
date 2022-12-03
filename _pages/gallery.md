@@ -2,7 +2,11 @@
 title: Gallery
 permalink: /gallery/
 gallery:
-  - url: assets/images/chirurgie1_large.jpeg
+   - url: assets/images/exterior_large.jpeg
+    image_path: assets/images/exterior.jpeg
+    alt: "Unsere Praxis von außen"
+    title: "Unsere Praxis von außen"
+    - url: assets/images/chirurgie1_large.jpeg
     image_path: assets/images/chirurgie1.jpeg
     alt: "Chirurgie"
     title: "Chirurgie - Kastration einer weiblichen Katze"
