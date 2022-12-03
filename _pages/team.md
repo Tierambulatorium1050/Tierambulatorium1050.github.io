@@ -14,3 +14,7 @@ excerpt: "Unser Team arbeitet aus liebe zum Tier."
 Liebe Tierbesitzerinnen und Tierbesitzer, 
 wir arbeiten derzeit an einer umfangreichen neuen Seite, wo wir unser motiviertes und liebenswertes Team vorstellen! Wir bitten um etwas Geduld!
 
+Einblicke in unseren Arbeitsalltag bekommen Sie in unserer Fotogallerie!
+[Zur Fotogallerie](./gallery.md)
+
+
