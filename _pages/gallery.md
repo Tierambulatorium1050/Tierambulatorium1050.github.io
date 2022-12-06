@@ -10,14 +10,6 @@ gallery:
     image_path: assets/images/exterior1.jpeg
     alt: "Unsere Praxis von außen"
     title: "Unsere Praxis von außen"
-  - url: assets/images/chirurgie1_large.jpeg
-    image_path: assets/images/chirurgie1.jpeg
-    alt: "Chirurgie"
-    title: "Chirurgie - Kastration einer weiblichen Katze"
-  - url: assets/images/chirurgie2_large.jpeg
-    image_path: assets/images/chirurgie2.jpeg
-    alt: "Chirurgie"
-    title: "Chirurgie - Kastration einer weiblichen Katze"
   - url: assets/images/blutdruck_large.jpeg
     image_path: assets/images/blutdruck.jpeg
     alt: "Blutdruckmessung bei einem Hund"
@@ -34,6 +26,14 @@ gallery:
     image_path: assets/images/ratte.jpg
     alt: "Kleintiere"
     title: "Kleintiere"
+  - url: assets/images/chirurgie1_large.jpeg
+    image_path: assets/images/chirurgie1.jpeg
+    alt: "Chirurgie"
+    title: "Chirurgie - Kastration einer weiblichen Katze"
+  - url: assets/images/chirurgie2_large.jpeg
+    image_path: assets/images/chirurgie2.jpeg
+    alt: "Chirurgie"
+    title: "Chirurgie - Kastration einer weiblichen Katze"
   - url: assets/images/kitten.jpg
     image_path: assets/images/kitten.jpg
     alt: "Katzenkinder"
