@@ -16,20 +16,20 @@ feature_row:
     title: "áreas de especialización"
     excerpt: "Medicina interna, ginecología, urología, dermatología, cardiología, ortopedia, cirugía, tratamiento dental, oftalmología"
   - image_path: "/assets/images/ultraschall.jpeg" 
-    alt: "Diagnóstica"
-    title: "Diagnóstica"
-    excerpt: "Rayos X digitales, ecografías, ECG, laboratorio propio, medición de la presión arterial"
+    alt: "Diagnóstico"
+    title: "Diagnóstico"
+    excerpt: "Radiografía digital, ecografías, ECG, laboratorio propio, medición de la presión arterial"
   - image_path: "/assets/images/kitten.jpg" 
     alt: "Atención médica"
     title: "Atención médica"
-    excerpt: "Cuidado de la salud, disposiciones para la vejez, asesoramiento nutricional, implantación de chip (transpondedor) y pasaporte de vacunación de la UE, visitas a domicilio, farmacia interna, asesoramiento sobre vacunación, asesoramiento sobre roedores"
+    excerpt: "Cuidado de la salud, disposiciones para la vejez, asesoria nutricional, implantación de chip (Transponder) y pasaporte de vacunación de la UE, visitas a domicilio, farmacia interna, asesoria sobre vacunación, asesoria sobre roedores"
    
 ---
 
 **Tierambulatorium am Bacherplatz, Su veterinario en español en el distrito 5 de Viena.**  
 
 
-La Médica Veterinaria Corinna Rotsejdl y su equipo en consultorio veterinario en Bacherplatz (Tierambulattorium am Bacherplatz) estará encantado de atenderlo en todas las necesidades médicas para sus mascotas. Es para nosotros muy importante la asesoría y el apoyo de forma personal.
+La Médica Veterinaria Corinna Rotsejdl y su equipo del consultorio veterinario en Bacherplatz (Tierambulatorium am Bacherplatz) estará encantado de atenderlo en todas las necesidades médicas para sus mascotas. Es para nosotros muy importante la asesoría y el apoyo de forma personal.
 Nuestro consultorio veterinario, ubicado en el distrito 5 de Viena, está equipado con los equipos más modernos, que están al nivel de una clínica veterinaria. Nuestro objetivo es el combinar la atención personal de una pequeña práctica con el desempeño de una gran clínica veterinaria.
 Nosotros estamos atendiendo consulta en alemán, inglés y español.
 Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro calendario de citas en línea (esta solo disponible en alemán, pero es muy fácil de usar) o estaremos atentos de atenderlos en nuestro teléfono +43 1 54 54 976.
