@@ -12,8 +12,8 @@ header:
 excerpt: "La mejor atención médica para tu mascota"
 feature_row:
   - image_path: "/assets/images/bjelle_m.jpeg"
-    alt: "áreas de especialización"
-    title: "áreas de especialización"
+    alt: "Áreas de especialización"
+    title: "Áreas de especialización"
     excerpt: "Medicina interna, ginecología, urología, dermatología, cardiología, ortopedia, cirugía, tratamiento dental, oftalmología"
   - image_path: "/assets/images/ultraschall.jpeg" 
     alt: "Diagnóstico"
@@ -43,7 +43,7 @@ Esperamos su visita.
 
 {% include feature_row %}
 
-**nuestra dirección**  
+**Nuestra dirección**  
 Tierambulatorium am Bacherplatz - Mag. Corinna Rotsejdl  
 Arbeitergasse 4/4, 1050 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
