@@ -30,9 +30,13 @@ feature_row:
 
 
 La Médica Veterinaria Corinna Rotsejdl y su equipo del consultorio veterinario en Bacherplatz (Tierambulatorium am Bacherplatz) estará encantado de atenderlo en todas las necesidades médicas para sus mascotas. Es para nosotros muy importante la asesoría y el apoyo de forma personal.
+
 Nuestro consultorio veterinario, ubicado en el distrito 5 de Viena, está equipado con los equipos más modernos, que están al nivel de una clínica veterinaria. Nuestro objetivo es el combinar la atención personal de una pequeña práctica con el desempeño de una gran clínica veterinaria.
+
 Nosotros estamos atendiendo consulta en alemán, inglés y español.
+
 Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro calendario de citas en línea (esta solo disponible en alemán, pero es muy fácil de usar) o estaremos atentos de atenderlos en nuestro teléfono +43 1 54 54 976.
+
 Debido a la pandemia de Coronavirus, le agradecemos el uso de mascara FFP2 durante su estancia en nuestras instalaciones.
 
 Esperamos su visita.
