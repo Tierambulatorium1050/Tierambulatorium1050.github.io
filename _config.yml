@@ -17,13 +17,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
- 
+
+liquid:
+  error_mode: strict
+
+logo: /assets/images/tab_animals_sml.png
 name: "Ihr Tierarzt in 1050 Wien"
 title: "Tierambulatorium Bacherplatz"
 tagline: "Ihr Tierarzt in Wien"
 description:  "Ihre kompetenten Tierärztinnen in 1050 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
 image: "/assets/images/tab_animals_sml.png"
-logo: "/assets/images/tab_animals_sml.png"
+
 email: "praxis@vetcat.at"
 locale: de_AT
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,11 +36,10 @@ url: "https://vetcat.at" # the base hostname & protocol for your site, e.g. http
 # twitter_username: jekyllrb
 #github_username: migocode
 social:
-  type:
-  name:
+  name: "Tierambulatorium am Bacherplatz"
   links:
-    - "https://www.facebook.com/TierambulatoriumAmBacherplatz"
-    - "https://www.instagram.com/tierambulatoriumambacherplatz"
+    - https://www.facebook.com/TierambulatoriumAmBacherplatz
+    - https://www.instagram.com/tierambulatoriumambacherplatz
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -76,7 +79,7 @@ include: ["_pages"]
 author:
   name: "Tierambulatorium <br/>am Bacherplatz <br/> <br/>
   Mag. Corinna Rotsejdl"
-  bio: "<b>Unsere aktuellen Öffnungszeiten</b><br/>
+  bio: "<b>Unsere Öffnungszeiten</b><br/>
 Mo: 09:30 - 19:00 <br/>
 Di: 09:30 - 19:00 <br/>
 Mi: 14:00 - 19:00 <br/>

@@ -11,4 +11,6 @@ main:
     url: /kontakt/
   - title: "English"
     url: /english/
+ - title: "Español"
+    url: /espanol/    
     
