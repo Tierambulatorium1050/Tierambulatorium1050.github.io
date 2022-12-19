@@ -13,7 +13,7 @@ wir möchten Ihnen und Ihren Vierbeinern von Herzen ein frohes Weihnachtsfest un
 
 Bei dieser Gelegenheit möchten wir auch auf unsere Öffnungszeiten zu den Feiertagen hinweisen:
 
-|  |  | 
+| Tag | Öffnungszeiten | 
 |-------|--------|
 | Samstag 24.12.22 | geschlossen |
 | Sonntag 25.12.22 | geschlossen |
