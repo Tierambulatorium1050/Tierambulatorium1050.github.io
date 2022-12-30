@@ -2,6 +2,7 @@
 title: Terminbuchung
 description: Buchen Sie hier Ihren Termin!
 layout: single
+canonical_url: 'https://vetcat.at/'
 author_profile: true
 permalink: /buchungstool/
 header:

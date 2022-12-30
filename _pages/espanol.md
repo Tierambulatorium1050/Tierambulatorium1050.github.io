@@ -4,6 +4,7 @@ description: Veterinario de habla inglesa 1050 Viena.
 classes: wide
 layout: single
 locale: es_ES
+canonical_url: 'https://vetcat.at/'
 permalink: /espanol/
 header:
   overlay_color: "#000"

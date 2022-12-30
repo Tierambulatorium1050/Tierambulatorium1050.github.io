@@ -3,6 +3,7 @@ title: "Tierarzt Wien"
 description: "Als Ihr Tierarzt in Wien sind wir leicht zu erreichen"
 layout: single
 permalink: /lage/
+canonical_url: 'https://vetcat.at/kontakt/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -25,7 +26,7 @@ Arbeitergasse 4/4, 1050 Wien
 
 
 
-**So finden Sie zu unsrer Praxis in Wien:**
+**So finden Sie zu unsrer Tierarztpraxis in Wien:**
 Unsere Ordination ist wenige Schritte von der Reinprechtsdorferstrasse entfernt, in der Arbeitergasse 4.
 
 
@@ -54,4 +55,4 @@ Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei 
 **Tierarzt für Ihren Bezirk!**
 
 Unser Einzugsgebiet geht weit über den 5. Bezirk hinaus!
-Unsere lieben Patienten kommen häufig aus Favoriten (1100), insbesondere Hauptbahnhof und Sonnwendviertel, aus Wien Landstraße (1030), Wien Meidling (1120), Mariahilf (1060), Neubau (1070), Rudolfsheim-Fünfhaus (1150). Durch die gute öffentliche Anbindung sind wir auch als Tierarzt für 1010 Wien gut erreichbar.
+Unsere lieben Patienten kommen häufig aus Favoriten (1100), Hauptbahnhof und Sonnwendviertel, aus Wien Landstraße (1030), Wien Meidling (1120), Mariahilf (1060), Neubau (1070), Rudolfsheim-Fünfhaus (1150) und Innere Stadt (1010).

@@ -1,5 +1,6 @@
 ---
 title: "Tierarzt Hausbesuch Wien"
+canonical_url: 'https://vetcat.at/'
 description: "Tierarzt 1010, Tierarzt 1030, Tierarzt 1040, Tierarzt 1050, Tierarzt 1060, Tierarzt 1070, Tierarzt 1080, Tierarzt 1100, Tierarzt Meidling"
 layout: single
 permalink: /hausbesuche/
@@ -33,7 +34,7 @@ Bitte bedenken Sie aber, dass eine gründliche Untersuchung oder Behandlung Ihre
 
 Wir sind stets bemüht für Sie kosteneffiziente Lösungen zu finden, deshalb weisen wir darauf hin, dass ein Hausbesuch aufgrund des Aufwandes mit Mehrkosten verbunden ist. Ein Besuch in der Ordination ist günstiger.
 
-**Ihr Tierarzt-team in 1050 Wien!**
+**Ihr Tierarzt Team in 1050 Wien!**
 
 Wir besuchen Sie gerne im 5. Bezirk, aber auch in:
 * 1030 Wien (3. Bezirk, Landstraße),
@@ -45,8 +46,8 @@ Wir besuchen Sie gerne im 5. Bezirk, aber auch in:
 * 1090 Wien (9. Bezirk, Alsergrund),
 * 1100 Wien (10. Bezirk, Favoriten),
 * 1110 Wien (11. Bezirk, Simmering),
-* 1120 Wien (12. Bezirk, Meidling)
-Generell auf Anfrage!
+* 1120 Wien (12. Bezirk, Meidling),
+* Generell auf Anfrage!
 
 
 
@@ -58,4 +59,4 @@ Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei 
 **Tierarzt für Ihren Bezirk!**
 
 Unser Einzugsgebiet geht weit über den 5. Bezirk hinaus!
-Unsere lieben Patienten kommen häufig aus Favoriten (1100), insbesondere Hauptbahnhof und Sonnwendviertel, aus Wien Landstraße (1030), Wien Meidling (1120), Mariahilf (1060), Neubau (1070), Rudolfsheim-Fünfhaus (1150). Durch die gute öffentliche Anbindung sind wir auch als Tierarzt für 1010 Wien gut erreichbar.
+Unsere lieben Patienten kommen häufig aus Favoriten (1100), Hauptbahnhof und Sonnwendviertel, aus Wien Landstraße (1030), Wien Meidling (1120), Mariahilf (1060), Neubau (1070), Rudolfsheim-Fünfhaus (1150) und Innere Stadt (1010).
