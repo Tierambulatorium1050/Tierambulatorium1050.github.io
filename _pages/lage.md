@@ -3,7 +3,7 @@ title: "Tierarzt Wien"
 description: "Als Ihr Tierarzt in Wien sind wir leicht zu erreichen"
 layout: single
 permalink: /lage/
-canonical_url: 'https://vetcat.at/kontakt/'
+canonical_url: 'https://vetcat.at/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
