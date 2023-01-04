@@ -1,9 +1,9 @@
 ---
 title: Ihr Tierarzt Team in 1050 Wien!
-description: "Liebevolles Tierarzt Team in 1050 Wien, Modernste Geräte, Ultraschall, Digital Röntgen, In-House Labor, Bestes Service, Günstig gelegen, Tierambulatorium im 5. Bezirk."
+description: "Liebevolles Tierarzt Team in 1050 Wien, Modernste Geräte, Ultraschall, Digital Röntgen, In-House Labor, Bestes Service, Günstig gelegen, Tierarztpraxis im 5. Bezirk."
 layout: home
 classes: wide
-excerpt: "Liebevolle TierärztInnen, modernste Geräte - Ihr Haustier in besten Händen!"
+excerpt: "Liebevolle Tierärztinnen und Tierärzte, modernste Geräte - Ihr Haustier in besten Händen!"
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
@@ -14,13 +14,13 @@ header:
 
 Mag. Corinna Rotsejdl und das Team des Tierambulatorium am Bacherplatz kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
 
-Unsere Tierarztpraxis in 1050 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Ordination mit der Leistung einer großen Tierklinik zu vereinen.
+Unsere Tierarztpraxis in 1050 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Tierarztpraxis mit der Leistung einer großen Tierklinik zu vereinen.
 
-Wir bieten Sprechstunden auf Deutsch, [Englisch](/english/) und [Spanisch](/espanol/) an.
+Unsere Tierärztinnen und Tierärzte bieten Sprechstunden auf Deutsch, [Englisch](/english/) und [Spanisch](/espanol/) an.
 
 Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzumelden. Entweder in unserem <b>[Onlineterminkalender](/buchungstool/)</b> oder gerne auch telefonisch unter <b><a href="tel:+43 1 54 54 976">+43 1 54 54 976</a></b>.
 
-Aufgrund der Corona Pandemie tragen Sie bitte eine FFP2 Maske, wenn Sie die Ordination betreten. Vielen Dank!
+Aufgrund der Corona Pandemie tragen Sie bitte eine FFP2 Maske, wenn Sie die Tierarztpraxis betreten. Vielen Dank!
 
 Wir freuen uns auf Ihren Besuch!
 
