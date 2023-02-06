@@ -7,7 +7,7 @@ permalink: /team/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/team.jpg
+  overlay_image: /assets/images/team.jpeg
 excerpt: "Unser Team arbeitet aus liebe zum Tier."
 ---
 
@@ -16,5 +16,3 @@ wir arbeiten derzeit an einer umfangreichen neuen Seite, wo wir unser motivierte
 
 Einblicke in unseren Arbeitsalltag bekommen Sie in unserer Fotogallerie!
 [Zur Fotogallerie](/gallery/)
-
-
