@@ -38,6 +38,10 @@ gallery:
     image_path: assets/images/kitten.jpg
     alt: "Katzenkinder"
     title: "Katzenkinder"
+  - url: assets/images/cassy_large.jpg
+    image_path: assets/images/cassy.jpg
+    alt: "Cassy"
+    title: "Cassy"
 ---
 
 ## Willkommen bei unserer Fotogallerie

@@ -27,6 +27,10 @@ feature_row:
 
 <i class="fa-solid fa-arrow-left-long"></i> [Zurück zu den Leistungen](/leistungen/)
 
+In unserer Praxis führen wir verschiedene operative Eingriffe durch. Zu den Routineoperationen zählen z.B. Katrationen von Hunden, Katzen und kleinen Heimtieren, wie Kaninchen, Meerschweinchen, Ratten, etc., sowie Tumorentfernung, Behandlung von Othämatomen (Blutohr), etc.
+Ein Anästhesist überwacht während des chirurgischen Eingriffes die Vitalparameter des Patienten in der Narkose mit Hilfe eines Überwachungsmonitors und kann somit die Narkose mittels modernem Narkosegerät anpassen. Dabei kommen bei uns Geräte nach höchsten medizinischen Standards zum Einsatz. Sollte sich während der Narkose ein Vitalparameter (zB Atmung, Sauerstoffsättigung, Blutdruck, Körpertemperatur, Puls, EKG) aus dem Normbereich bewegen, kann das OP Team sofort entsprechende Maßnahmen ergreifen.
+
+
 {% include feature_row %}
 
 ## Narkose
