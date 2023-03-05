@@ -54,13 +54,13 @@ feature_row:
 
 Wir freuen uns, Ihnen unser professionelles und engagiertes Tierarzt Team vorzustellen.
 
-Unser Team besteht aus vier erfahrenen Tierärztinnen und Tierärzten sowie einer ausgebildeten Tierpflegerin. Uns alle verbindet, dass wir uns leidenschaftlich um das Wohl Ihrer Haustiere kümmern. Wir verstehen, wie wichtig Ihre Tiere sind und geben daher unser bestes, damit sie stets die bestmögliche medizinische Versorgung erhalten.
+Unser Team besteht aus vier erfahrenen Tierärztinnen und Tierärzten sowie einer ausgebildeten Tierpflegerin. Uns alle verbindet, dass wir uns leidenschaftlich um das Wohl Ihrer Haustiere kümmern. Das Wohlergehen Ihres Tieres ist unser höchstes Anliegen. Daher geben wir täglich unser Bestes, damit sie stets die bestmögliche medizinische Versorgung erhalten.
 
-Unsere Tierärztinnen und Tierärzte verfügen über eine umfangreiche Ausbildung und Erfahrung in allen wesentlichen Bereichen der Tiermedizin. Sie haben ein tiefes Verständnis für die verschiedenen Arten von Tieren und deren spezifischen Bedürfnisse. 
+Unsere Tierärztinnen und Tierärzte verfügen über eine umfangreiche Ausbildung und Erfahrung in allen wesentlichen Bereichen der Tiermedizin. 
 
 {% include feature_row %}
 
-Wir sind stolz auf unser engagiertes und professionelles Team und freuen uns darauf, Ihnen und Ihren Haustieren die bestmögliche medizinische Versorgung zu bieten. Kontaktieren Sie uns noch heute, um einen Termin zu vereinbaren und erfahren Sie mehr darüber, wie wir Ihnen und Ihren Haustieren helfen können.
+ Kontaktieren Sie uns noch heute, um einen Termin zu vereinbaren und erfahren Sie mehr darüber, wie wir Ihnen und Ihren Haustieren helfen können.
 
 Einblicke in unseren Arbeitsalltag bekommen Sie in unserer Fotogallerie!
 [Zur Fotogallerie](/gallery/)
