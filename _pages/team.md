@@ -6,9 +6,7 @@ permalink: /team/
 description: "Wir sind aus Überzeugung für Tiere da."
 excerpt: "Unser Team arbeitet aus Liebe zum Tier."
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: "/assets/images/team.jpeg"
+  image: "/assets/images/team.jpeg"
   actions:
   - label: "Termin buchen!"
     url: "/buchungstool/"
