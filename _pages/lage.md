@@ -1,6 +1,7 @@
 ---
 title: "Tierarzt Wien"
 description: "Als Ihr Tierarzt in Wien sind wir leicht zu erreichen"
+author_profile: false
 layout: single
 permalink: /lage/
 canonical_url: 'https://vetcat.at/'

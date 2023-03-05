@@ -1,6 +1,7 @@
 ---
 title: "Kontakt"
 description: "Kontaktieren Sie uns!"
+author_profile: false
 layout: single
 permalink: /kontakt/
 header:

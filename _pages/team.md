@@ -1,5 +1,6 @@
 ---
 title: Team
+author_profile: false
 layout: single
 classes: wide
 permalink: /team/
