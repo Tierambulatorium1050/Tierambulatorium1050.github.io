@@ -3,11 +3,15 @@ title: Ihr Tierarzt Team in 1050 Wien!
 description: "Liebevolles Tierarzt Team in 1050 Wien, Modernste Geräte, Ultraschall, Digital Röntgen, In-House Labor, Bestes Service, Günstig gelegen, Tierarztpraxis im 5. Bezirk."
 layout: home
 classes: wide
+author_profile: true
 excerpt: "Liebevolle Tierärztinnen und Tierärzte, modernste Geräte - Ihr Haustier in besten Händen!"
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
   overlay_image: /assets/images/kontakt.jpg
+  actions:
+    - label: "Termin buchen!"
+      url: "/buchungstool/"
 ---
 
 ## Liebe Tierbesitzerinnen und Tierbesitzer,

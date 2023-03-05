@@ -12,7 +12,7 @@ header:
   overlay_image: "/assets/images/kontakt.jpg"
 excerpt: "Best medical care for your pet"
 feature_row:
-  - image_path: "/assets/images/bjelle_m.jpeg"
+  - image_path: "/assets/images/juan.jpeg"
     alt: "Areas of expertise"
     title: "Areas of expertise"
     excerpt: "Internal medicine, gynecology, urology, dermatology, cardiology, orthopedics, surgery, dental treatment, ophthalmology"

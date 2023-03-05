@@ -2,6 +2,7 @@
 title: Leistungen
 description: So können wir Ihrem Tier helfen
 layout: single
+classes: wide
 permalink: /leistungen/
 header:
   overlay_color: "#000"
@@ -11,7 +12,7 @@ excerpt: "Das Hauptanliegen unseres Teams ist, Erkrankungen Ihrer Haustiere durc
 
   
 feature_row:
-  - image_path: /assets/images/bjelle_m.jpeg
+  - image_path: /assets/images/juan.jpeg
     alt: "Fachgebiete"
     title: "Fachgebiete"
     excerpt: "Innere Medizin, Gynäkologie, Urologie, Dermatologie, Kardiologie, Orthopädie, Chirurgie, Zahnbehandlung, Ophthalmologie"

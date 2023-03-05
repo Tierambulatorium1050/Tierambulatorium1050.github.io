@@ -12,7 +12,7 @@ header:
   overlay_image: "/assets/images/kontakt.jpg"
 excerpt: "La mejor atención médica para tu mascota"
 feature_row:
-  - image_path: "/assets/images/bjelle_m.jpeg"
+  - image_path: "/assets/images/juan.jpeg"
     alt: "Áreas de especialización"
     title: "Áreas de especialización"
     excerpt: "Medicina interna, ginecología, urología, dermatología, cardiología, ortopedia, cirugía, tratamiento dental, oftalmología"
@@ -50,7 +50,6 @@ Arbeitergasse 4/4, 1050 Wien
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice--info}
-
 
 **Nuestro horario de apertura:**
 
