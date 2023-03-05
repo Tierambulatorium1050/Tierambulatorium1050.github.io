@@ -58,7 +58,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: true
+      author_profile: false
       share: true
   # _posts
   - scope:
@@ -68,7 +68,7 @@ defaults:
       layout: single
       classes: wide
       show_date: false
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: false
       related: false
