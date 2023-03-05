@@ -15,6 +15,6 @@ excerpt: "Tierambulatorium am Bacherplatz : Unser Team"
 
 ![Isabella Cada](/assets/images/bella1_large.jpeg){: .align-left style="width: 50%;"}
 
-Ich habe meinen Traum mit Tieren arbeiten zu dürfen erfüllt und bin seit über 15 Jahren ausgebildete Tierpflegerin. 2008 habe ich die Tierpflegerschule der VetMed Uni Wien mit Auszeichnung abgeschlossen. Mein beseonderes Interesse gilt der Tier-Zahnmedizin. In meiner Freizit bin ich vollwertige Hundemama meines französischen Bulldoggenmädchens 'Cassy', die ich über alles liebe.
+Ich habe meinen Traum mit Tieren arbeiten zu dürfen erfüllt und bin seit über 15 Jahren ausgebildete Tierpflegerin. 2008 habe ich die Tierpflegerschule der VetMed Uni Wien mit Auszeichnung abgeschlossen. Mein beseonderes Interesse gilt der Tier-Zahnmedizin. In meiner Freizeit bin ich vollwertige Hundemama meines französischen Bulldoggenmädchens 'Cassy', die ich über alles liebe.
 
 [zurück zu 'Team'](/team/)
