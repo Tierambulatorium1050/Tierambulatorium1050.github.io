@@ -56,19 +56,11 @@ Wir freuen uns, Ihnen unser professionelles und engagiertes Tierarzt Team vorzus
 
 Unser Team besteht aus vier erfahrenen Tierärztinnen und Tierärzten sowie einer ausgebildeten Tierpflegerin. Uns alle verbindet, dass wir uns leidenschaftlich um das Wohl Ihrer Haustiere kümmern. Wir verstehen, wie wichtig Ihre Tiere sind und geben daher unser bestes, damit sie stets die bestmögliche medizinische Versorgung erhalten.
 
-Unsere Tierärztinnen und Tierärzte verfügen über eine umfangreiche Ausbildung und Erfahrung in allen Bereichen der Tiermedizin. Sie haben ein tiefes Verständnis für die verschiedenen Arten von Tieren und deren spezifischen Bedürfnisse. 
+Unsere Tierärztinnen und Tierärzte verfügen über eine umfangreiche Ausbildung und Erfahrung in allen wesentlichen Bereichen der Tiermedizin. Sie haben ein tiefes Verständnis für die verschiedenen Arten von Tieren und deren spezifischen Bedürfnisse. 
 
 {% include feature_row %}
 
-Tiermedizinische Fachkräfte:
-
-Unsere tiermedizinischen Fachkräfte spielen eine wichtige Rolle bei der Versorgung Ihrer Haustiere. Sie unterstützen unsere Tierärzte bei Diagnose, Behandlung und Pflege Ihrer Tiere. Unsere Fachkräfte haben eine fundierte Ausbildung und umfangreiche Erfahrung in der Tiermedizin, einschließlich spezieller Fähigkeiten wie Anästhesie und Notfallversorgung.
-
-Rezeptionisten:
-
-Unsere Rezeptionisten sind die ersten, die Sie in unserer Praxis begrüßen. Sie sind freundlich, kompetent und immer bereit, Ihnen bei Fragen und Terminvereinbarungen zu helfen. Unsere Rezeptionisten haben eine umfassende Kenntnis der Dienstleistungen, die wir anbieten, und können Ihnen dabei helfen, den richtigen Termin für Ihre Bedürfnisse zu vereinbaren.
-
-
 Wir sind stolz auf unser engagiertes und professionelles Team und freuen uns darauf, Ihnen und Ihren Haustieren die bestmögliche medizinische Versorgung zu bieten. Kontaktieren Sie uns noch heute, um einen Termin zu vereinbaren und erfahren Sie mehr darüber, wie wir Ihnen und Ihren Haustieren helfen können.
+
 Einblicke in unseren Arbeitsalltag bekommen Sie in unserer Fotogallerie!
 [Zur Fotogallerie](/gallery/)
