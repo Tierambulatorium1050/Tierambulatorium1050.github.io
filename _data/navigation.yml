@@ -1,8 +1,6 @@
 main:
   - title: "Terminbuchung"
     url: /buchungstool/
-  - title: "News"
-    url: /news/
   - title: "Team"
     url: /team/
   - title: "Leistungen"
@@ -12,5 +10,7 @@ main:
   - title: "English"
     url: /english/
   - title: "Español"
-    url: /espanol/    
+    url: /espanol/
+  - title: "News"
+    url: /news/    
     
