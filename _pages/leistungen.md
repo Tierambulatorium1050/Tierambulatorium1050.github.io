@@ -19,7 +19,7 @@ feature_row:
     url: "/fachgebiete/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/ultraschall.jpeg
+  - image_path: /assets/images/blutdruck.jpeg
     alt: "Diagnostik"
     title: "Diagnostik"
     excerpt: "Detektor Röngten, Ultraschall, EKG, In-House Labor, Blutdruckmessung"

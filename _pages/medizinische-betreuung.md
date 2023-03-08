@@ -65,6 +65,6 @@ Wir empfehlen ausserdem, unsere kleinen Patienten zumindest 1x jährlich zur Kon
 
 Für Fragen rund um die kleinen Heimtiere stehen wir Ihnen gern zur Verfügung!
 
-![Ultraschall](/assets/images/ratte.jpg)
+![Nagetiere](/assets/images/ratte.jpg){:style="width: 50%;"}
 
 <i class="fa-solid fa-arrow-left-long"></i>  [Zurück zu den Leistungen](/leistungen/)
