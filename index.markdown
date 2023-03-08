@@ -28,7 +28,14 @@ Aufgrund der Corona Pandemie tragen Sie bitte eine FFP2 Maske, wenn Sie die Tier
 
 Wir freuen uns auf Ihren Besuch!
 
-## Öffnungszeiten der Tierarztpraxis:
+Tierarmbulatorium am Bacherplatz <br />
+Arbeitergasse 4<br />
+1050 Wien  <br />
+<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
+<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
+{: .notice--info}
+
+## Öffnungszeiten unserer Tierarztpraxis:
 
 |  | Vormittag | Nachmittag |
 |-------|--------|---------|
@@ -38,11 +45,3 @@ Wir freuen uns auf Ihren Besuch!
 | Donnerstag | | 14:00 - 19:00 |
 | Freitag | 09:30 - 14:00 | 14:00 - 19:00 |
 | Samstag | 09:30 - 13:30 |  | 
-
-
-Tierarmbulatorium am Bacherplatz <br />
-Arbeitergasse 4<br />
-1050 Wien  <br />
-<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
-<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
-{: .notice--info}
