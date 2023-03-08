@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Gallerie
 permalink: /gallery/
 gallery:
   - url: assets/images/exterior2_large.jpeg
@@ -36,4 +36,3 @@ gallery:
 Hier zeigen wir Ihnen von Zeit zu Zeit ein paar Schnappschüsse von unserem Ordinationsalltag.
 
 {% include gallery layout="half" %}
-
