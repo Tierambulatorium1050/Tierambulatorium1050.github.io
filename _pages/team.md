@@ -28,7 +28,7 @@ feature_row:
     btn_label: "Mehr"
     btn_class: "btn--inverse"
   - image_path: "/assets/images/juan1.jpeg" 
-    alt: "MMag. med. vet. Juan Allina"
+    alt: "Mag. med. vet. Juan Allina"
     title: "Mag. med. vet. Juan Allina"
     excerpt: "Tierarzt"
     url: "/team/juanallina/"
