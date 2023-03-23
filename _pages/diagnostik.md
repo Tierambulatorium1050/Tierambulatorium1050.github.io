@@ -19,7 +19,7 @@ feature_row:
   - image_path: "/assets/images/roentgenbild.jpeg"
     alt: "Röntgenbild"
     title: "Röntgenbild"
-    excerpt: "Die modernen Geräte ermöglichen uns hochauflösende aufnahmen bei kleinstmöglicher Strahlendosis. Die intelligente Software von FUJIFILM stellt zum Schluss noch die Bildparameter perfekt ein."
+    excerpt: "Die modernen Geräte ermöglichen uns hochauflösende Aufnahmen bei kleinstmöglicher Strahlendosis. Die intelligente Software von FUJIFILM stellt zum Schluss noch die Bildparameter perfekt ein."
     
 ---
 

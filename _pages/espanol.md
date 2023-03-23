@@ -16,7 +16,7 @@ feature_row:
     alt: "Áreas de especialización"
     title: "Áreas de especialización"
     excerpt: "Medicina interna, ginecología, urología, dermatología, cardiología, ortopedia, cirugía, tratamiento dental, oftalmología"
-  - image_path: "/assets/images/ultraschall.jpeg" 
+  - image_path: /assets/images/blutdruck.jpeg 
     alt: "Diagnóstico"
     title: "Diagnóstico"
     excerpt: "Radiografía digital, ecografías, ECG, laboratorio propio, medición de la presión arterial"

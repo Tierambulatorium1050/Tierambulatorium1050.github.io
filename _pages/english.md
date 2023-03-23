@@ -16,7 +16,7 @@ feature_row:
     alt: "Areas of expertise"
     title: "Areas of expertise"
     excerpt: "Internal medicine, gynecology, urology, dermatology, cardiology, orthopedics, surgery, dental treatment, ophthalmology"
-  - image_path: "/assets/images/ultraschall.jpeg" 
+  - image_path: /assets/images/blutdruck.jpeg
     alt: "Diagnostics"
     title: "Diagnostics"
     excerpt: "Digital X-ray, ultrasound, ECG, in-house laboratory, blood pressure measurement"
