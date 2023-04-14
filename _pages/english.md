@@ -40,8 +40,6 @@ We offer consultation hours in German, English and also Spanish.
 In order to avoid waiting times, we kindly ask you to register with us before your visit. Either in our [online calendar (only available in german, but easy to use)](./buchungstool.md) or by phone at  <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>.
 We'd love to help you.
 
-Due to the corona pandemic, please wear an FFP2 mask when entering the ordination. Thank you very much!
-
 We are looking forward to your visit!
 
 

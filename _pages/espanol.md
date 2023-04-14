@@ -38,8 +38,6 @@ Nosotros estamos atendiendo consulta en alemán, inglés y español.
 
 Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro calendario de citas en línea (esta solo disponible en alemán, pero es muy fácil de usar) o estaremos atentos de atenderlos en nuestro teléfono +43 1 54 54 976.
 
-Debido a la pandemia de Coronavirus, le agradecemos el uso de mascara FFP2 durante su estancia en nuestras instalaciones.
-
 Esperamos su visita.
 
 {% include feature_row %}
