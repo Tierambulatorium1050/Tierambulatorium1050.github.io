@@ -24,8 +24,6 @@ Unsere Tierärztinnen und Tierärzte bieten Sprechstunden auf Deutsch, [Englisch
 
 Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzumelden. Entweder in unserem <b>[Online Buchungssystem](/buchungstool/)</b> oder gerne auch telefonisch unter <b><a href="tel:+43 1 54 54 976">+43 1 54 54 976</a></b>.
 
-Aufgrund der Corona Pandemie tragen Sie bitte eine FFP2 Maske, wenn Sie die Tierarztpraxis betreten. Vielen Dank!
-
 Wir freuen uns auf Ihren Besuch!
 
 Tierarmbulatorium am Bacherplatz <br />
