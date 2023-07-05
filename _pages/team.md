@@ -34,10 +34,13 @@ feature_row:
     url: "/team/isabellacada/"
     btn_label: "Mehr"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/logo-small.jpg" 
+  - image_path: "/assets/images/petra.jpeg" 
     alt: "Mag. med. vet. Petra Gerzabek"
     title: "Mag. med. vet. Petra Gerzabek"
     excerpt: "Tierärztin"
+    url: "/team/petragerzabek/"
+    btn_label: "Mehr"
+    btn_class: "btn--inverse"
 
 ---
 Wir freuen uns, Ihnen unser professionelles und engagiertes Tierarzt-Team vorzustellen.
