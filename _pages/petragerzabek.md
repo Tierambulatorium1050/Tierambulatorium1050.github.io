@@ -15,4 +15,7 @@ excerpt: "Tierambulatorium am Bacherplatz : Unser Team"
 
 ![Mag. med. vet. Petra Gerzabek](/assets/images/petra_large.jpeg){: .align-left style="width: 50%;"}
 
+Schon früh wusste ich, dass ich Tierärztin werden will. Nach dem Studium zog es mich nach Murau in die Steiermark, wo ich in der Großtierpraxis gearbeitet habe. Doch bald merkte ich, dass mir Kleintiere mehr liegen, und deshalb bin ich wieder nach Wien gewechselt, wo ich in einigen Kleintierordinationen gearbeitet habe - Bis ich meine eigene Kleintierpraxis eröffnet habe, die ich 10 Jahre lang mit viel Empathie und Euphorie geführt habe. Aus privaten Gründen bin ich dann nach Tirol gegangen und habe deshalb meine Praxis geschlossen.
+Meine Schwerpunkte sind Innere Medizin, Orthopädie und Ernährung. Die Schmerztherapie von geriatrischen und orthopädischen Patienten liegt mir sehr am Herzen und deshalb habe ich eine Zusatzausbildung in Akupunktur und auch Physiotherapie gemacht.
+
 [zurück zu 'Team'](/team/)
