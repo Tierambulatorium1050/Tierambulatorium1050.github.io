@@ -41,7 +41,13 @@ feature_row:
     url: "/team/petragerzabek/"
     btn_label: "Mehr"
     btn_class: "btn--inverse"
-
+  - image_path: "/assets/images/clara.jpg" 
+    alt: "Mag. med. vet. Clara Bester MRCVS"
+    title: "Mag. med. vet. Clara Bester MRCVS"
+    excerpt: "Tierärztin"
+    url: "/team/clarabester/"
+    btn_label: "Mehr"
+    btn_class: "btn--inverse"
 ---
 Wir freuen uns, Ihnen unser professionelles und engagiertes Tierarzt-Team vorzustellen.
 

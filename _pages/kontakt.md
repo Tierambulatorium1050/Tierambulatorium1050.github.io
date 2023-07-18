@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/title.jpg
 excerpt: "Zentral gelegen und leicht zu erreichen."
 ---
-**Tierambulatorium am Bacherplatz im 5. Bezirk**  
+**Tierarztpraxis am Bacherplatz im 5. Bezirk**  
 
 Mag. Corinna Rotsejdl  
 Arbeitergasse 4/4, 1050 Wien  
