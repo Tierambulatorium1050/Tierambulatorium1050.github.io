@@ -26,14 +26,14 @@ Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzum
 
 Wir freuen uns auf Ihren Besuch!
 
-Tierarmbulatorium am Bacherplatz <br />
+Tierarztpraxis am Bacherplatz (Vormals Tierambulatorium am Bacherplatz)<br />
 Arbeitergasse 4<br />
 1050 Wien  <br />
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice--info}
 
-## Achtung: Ab 1.7.23 gelten unsere Sommeröffnungszeiten:
+## Achtung: Bis inklusive 31.7.23 gelten unsere Sommeröffnungszeiten:
 
 |  | Vormittag | Nachmittag |
 |-------|--------|---------|
@@ -42,4 +42,15 @@ Arbeitergasse 4<br />
 | Mittwoch | | 14:00 - 19:00 |
 | Donnerstag | | 14:00 - 19:00 |
 | Freitag |   | 14:00 - 19:00 |
+| Samstag | 09:30 - 13:30 |  | 
+
+## Ab 1.8.2023 haben wir wieder regulär für Sie geöffnet:
+
+|  | Vormittag | Nachmittag |
+|-------|--------|---------|
+| Montag | 09:00 - 14:00 | 14:00 - 19:00 |
+| Dienstag | 09:00 - 14:00 | 14:00 - 19:00 |
+| Mittwoch | | 14:00 - 19:00 |
+| Donnerstag | | 14:00 - 19:00 |
+| Freitag | 09:00 - 14:00 | 14:00 - 19:00 |
 | Samstag | 09:30 - 13:30 |  | 

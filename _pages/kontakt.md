@@ -20,7 +20,7 @@ Arbeitergasse 4/4, 1050 Wien
 
 
 
-## Achtung: Ab 1.7.23 gelten unsere Sommeröffnungszeiten:
+## Achtung: Bis inklusive 31.7.23 gelten unsere Sommeröffnungszeiten:
 
 |  | Vormittag | Nachmittag |
 |-------|--------|---------|
@@ -31,8 +31,18 @@ Arbeitergasse 4/4, 1050 Wien
 | Freitag |   | 14:00 - 19:00 |
 | Samstag | 09:30 - 13:30 |  | 
 
-**Derzeit kein Notdienst!**
+## Ab 1.8.2023 haben wir wieder regulär für Sie geöffnet:
 
+|  | Vormittag | Nachmittag |
+|-------|--------|---------|
+| Montag | 09:00 - 14:00 | 14:00 - 19:00 |
+| Dienstag | 09:00 - 14:00 | 14:00 - 19:00 |
+| Mittwoch | | 14:00 - 19:00 |
+| Donnerstag | | 14:00 - 19:00 |
+| Freitag | 09:00 - 14:00 | 14:00 - 19:00 |
+| Samstag | 09:30 - 13:30 |  |
+
+**Derzeit kein Notdienst!**
 
 **So finden Sie zu uns:**
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.017492576028!2d16.35221241598973!3d48.187014455694914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476da82f2e762efb%3A0x205402a529b2d653!2sTierambulatorium%20am%20Bacherplatz!5e0!3m2!1sde!2sat!4v1650568162198!5m2!1sde!2sat" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
