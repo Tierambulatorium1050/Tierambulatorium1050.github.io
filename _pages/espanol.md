@@ -27,10 +27,10 @@ feature_row:
    
 ---
 
-**Tierambulatorium am Bacherplatz, Su veterinario en español en el distrito 5 de Viena.**  
+**Tierarztpraxis am Bacherplatz, Su veterinario en español en el distrito 5 de Viena.**  
 
 
-La Médica Veterinaria Corinna Rotsejdl y su equipo del consultorio veterinario en Bacherplatz (Tierambulatorium am Bacherplatz) estará encantado de atenderlo en todas las necesidades médicas para sus mascotas. Es para nosotros muy importante la asesoría y el apoyo de forma personal.
+La Médica Veterinaria Corinna Rotsejdl y su equipo del consultorio veterinario en Bacherplatz (Tierarztpraxis am Bacherplatz) estará encantado de atenderlo en todas las necesidades médicas para sus mascotas. Es para nosotros muy importante la asesoría y el apoyo de forma personal.
 
 Nuestro consultorio veterinario, ubicado en el distrito 5 de Viena, está equipado con los equipos más modernos, que están al nivel de una clínica veterinaria. Nuestro objetivo es el combinar la atención personal de una pequeña práctica con el desempeño de una gran clínica veterinaria.
 
@@ -43,7 +43,7 @@ Esperamos su visita.
 {% include feature_row %}
 
 **Nuestra dirección**  
-Tierambulatorium am Bacherplatz - Mag. Corinna Rotsejdl  
+Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl  
 Arbeitergasse 4/4, 1050 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>

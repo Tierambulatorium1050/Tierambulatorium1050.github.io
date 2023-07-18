@@ -27,7 +27,7 @@ feature_row:
    
 ---
 
-**Tierambulatorium am Bacherplatz, your english speaking veterinarian in 1050 Vienna**  
+**Tierarztpraxis am Bacherplatz, your english speaking veterinarian in 1050 Vienna**  
 
 Dear pet owners,
 
@@ -46,7 +46,7 @@ We are looking forward to your visit!
 {% include feature_row %}
 
 **Our address**  
-Tierambulatorium am Bacherplatz - Mag. Corinna Rotsejdl    
+Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl    
 Arbeitergasse 4/4, 1050 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>

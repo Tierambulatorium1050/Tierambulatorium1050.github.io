@@ -1,7 +1,7 @@
 ---
 title: Impressum
-description: Impressum des Tierambulatorium am Bacherplatz Tierarztpraxis 1050 Wien
-excerpt: Impressum des Tierambulatorium am Bacherplatz, 1050 Wien
+description: Impressum der Tierarztpraxis am Bacherplatz Tierarztpraxis 1050 Wien
+excerpt: Impressum der Tierarztpraxis am Bacherplatz, 1050 Wien
 toc: false
 layout: single
 author_profile: true
@@ -13,9 +13,9 @@ header:
 ---
 
 
-**Tierambulatorium am Bacherplatz**
+**Tierarztpraxis am Bacherplatz**
 
-Tierarztpraxis "Tierambulatorium am Bacherplatz - Mag. Corinna Rotsejdl"<br />
+Tierarztpraxis "Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl"<br />
 Arbeitergasse 4/4<br />
 1050 Wien<br />
 Österreich<br />

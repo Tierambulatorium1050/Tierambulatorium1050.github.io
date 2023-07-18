@@ -14,5 +14,5 @@ excerpt: Bei uns gibt es immer etwas Neues
 
 ## Neuigkeiten aus unserer Ordination
 
-Neuigkeiten vom Tierambulatorium am Bacherplatz finden Sie hier, aber auch auf unseren Facebook und Instagram Seiten!
+Neuigkeiten der Tierarztpraxis am Bacherplatz finden Sie hier, aber auch auf unseren Facebook und Instagram Seiten!
 

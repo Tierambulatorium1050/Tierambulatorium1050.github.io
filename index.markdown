@@ -16,7 +16,7 @@ header:
 
 ## Liebe Tierbesitzerinnen und Tierbesitzer,
 
-Mag. Corinna Rotsejdl und das Team des Tierambulatorium am Bacherplatz kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
+Mag. Corinna Rotsejdl und das Team der Tierarztpraxis am Bacherplatz kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
 
 Unsere Tierarztpraxis in 1050 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Tierarztpraxis mit der Leistung einer großen Tierklinik zu vereinen.
 

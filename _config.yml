@@ -23,7 +23,7 @@ liquid:
 
 logo: /assets/images/tab_animals_sml.png
 name: "Ihr Tierarzt in 1050 Wien"
-title: "Tierambulatorium Bacherplatz"
+title: "Tierarztpraxis Bacherplatz"
 tagline: "Ihr Tierarzt in Wien"
 description:  "Ihre kompetenten Tierärztinnen in 1050 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
 image: "/assets/images/tab_animals_sml.png"
@@ -36,7 +36,7 @@ url: "https://vetcat.at" # the base hostname & protocol for your site, e.g. http
 # twitter_username: jekyllrb
 #github_username: migocode
 social:
-  name: "Tierambulatorium am Bacherplatz"
+  name: "Tierarztpraxis am Bacherplatz"
   links:
     - https://www.facebook.com/TierambulatoriumAmBacherplatz
     - https://www.instagram.com/tierambulatoriumambacherplatz
@@ -77,7 +77,7 @@ defaults:
 include: ["_pages"]
 
 author:
-  name: "Tierambulatorium <br/>am Bacherplatz <br/> <br/>
+  name: "Tierarztpraxis <br/>am Bacherplatz <br/> <br/>
   Mag. Corinna Rotsejdl"
   bio: "<b>Unsere Öffnungszeiten</b><br/>
 Mo: 09:30 - 19:00 <br/>

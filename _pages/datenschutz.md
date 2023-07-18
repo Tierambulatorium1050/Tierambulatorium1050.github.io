@@ -21,7 +21,7 @@ Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte
 **Rechtsgrundlage und Zweck der Datenverarbeitung**
 
 Ihre personenbezogenen Daten werden nur bei Vorliegen einer rechtlichen Grundlage im Sinne der DSGVO, sohin primär zum Zweck der Vertragsanbahnung und -erfüllung, aufgrund von gesetzlichen Pflichten oder nach Einholung entsprechender Einwilligungen verarbeitet. 
-In Einzelfällen verarbeiten wir Ihre personenbezogenen Daten auch auf Grund von berechtigten Interessen des Tierambulatoriums am Bacherplatz, Mag. Corinna Rotsejdl. Es werden nur jene personenbezogenen Daten verarbeitet, die zur Erreichung des jeweiligen Zwecks notwendig sind, wie insbesondere: Name und E-Mail-Adresse sowie gegebenenfalls auch weitere Daten, sofern sie von Ihnen im Rahmen einer Anfrage bzw. Registrierung, bei Abschluss eines Vertrages oder im Rahmen einer Terminreservierung bekanntgegeben worden sind. 
+In Einzelfällen verarbeiten wir Ihre personenbezogenen Daten auch auf Grund von berechtigten Interessen der Tierarztpraxis am Bacherplatz, Mag. Corinna Rotsejdl. Es werden nur jene personenbezogenen Daten verarbeitet, die zur Erreichung des jeweiligen Zwecks notwendig sind, wie insbesondere: Name und E-Mail-Adresse sowie gegebenenfalls auch weitere Daten, sofern sie von Ihnen im Rahmen einer Anfrage bzw. Registrierung, bei Abschluss eines Vertrages oder im Rahmen einer Terminreservierung bekanntgegeben worden sind. 
 
 **Speicherdauer**
 
@@ -30,7 +30,7 @@ Ihre personenbezogenen Daten werden nur so lange gespeichert, wie es von Gesetze
 **Weitergabe Ihrer personenbezogenen Daten an Dritte**
 
 Eine Übermittlung Ihrer personenbezogenen Daten an Dritte findet grundsätzlich nicht statt, es sei denn, dies ist zur Erfüllung unserer gesetzlichen Pflichten bzw. zur Durchführung eines Vertragsverhältnisses erforderlich. 
-Ausgenommen hiervon sind Dienstleister, die im Auftrag des Tierambulatorium am Bacherplatz, Mag. Corinna Rotsejdl tätig werden. Es handelt sich dabei insbesondere um IT-Dienstleister, die das Terminbuchungstool oder die Praxismanagementsoftware des Tierambulatorium am Bacherplatz, Mag. Corinna Rotsejdl betreuen. Sämtliche Dienstleister unterliegen strengen technischen und organisatorischen Sicherheitsmaßnahmen und haben die Datenschutzvorschriften einzuhalten. 
+Ausgenommen hiervon sind Dienstleister, die im Auftrag der Tierarztpraxis am Bacherplatz, Mag. Corinna Rotsejdl tätig werden. Es handelt sich dabei insbesondere um IT-Dienstleister, die das Terminbuchungstool oder die Praxismanagementsoftware der Tierarztpraxis am Bacherplatz, Mag. Corinna Rotsejdl betreuen. Sämtliche Dienstleister unterliegen strengen technischen und organisatorischen Sicherheitsmaßnahmen und haben die Datenschutzvorschriften einzuhalten. 
 Informationen zu den Drittanbietern:
 -	Buchungstool, Praxismanagementsoftware: CHD Electronic Engineering, Christian Dumhart Sperlgasse 13, 2284 Untersiebenbrunn
 
@@ -76,7 +76,7 @@ Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht v
 
 Anfragen und die Geltendmachung Ihrer Rechte können Sie jederzeit sowohl an unsere E-Mail als auch an unsere Postadresse richten:<br />
 
-Tierambulatorium am Bacherplatz<br />
+Tierarztpraxis am Bacherplatz<br />
 Mag. Corinna Rotsejdl<br />
 Arbeitergasse 4/4<br />
 1050 Wien<br />

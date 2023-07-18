@@ -17,4 +17,4 @@ Sa: 09:30 – 13:30<br />
 <br />
 Liebe Grüße,<br /> 
 Mag. Corinna Rotsejdl<br /> 
-und das Team vom Tierambulatorium am Bacherplatz<br />
+und das Team der Tierarztpraxis am Bacherplatz<br />
