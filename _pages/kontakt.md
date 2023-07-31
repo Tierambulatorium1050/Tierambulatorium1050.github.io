@@ -19,18 +19,6 @@ Arbeitergasse 4/4, 1050 Wien
 {: .notice--info}
 
 
-
-## Achtung: Bis inklusive 31.7.23 gelten unsere Sommeröffnungszeiten:
-
-|  | Vormittag | Nachmittag |
-|-------|--------|---------|
-| Montag |   | 14:00 - 19:00 |
-| Dienstag |   | 14:00 - 19:00 |
-| Mittwoch | | 14:00 - 19:00 |
-| Donnerstag | | 14:00 - 19:00 |
-| Freitag |   | 14:00 - 19:00 |
-| Samstag | 09:30 - 13:30 |  | 
-
 ## Ab 1.8.2023 haben wir wieder regulär für Sie geöffnet:
 
 |  | Vormittag | Nachmittag |

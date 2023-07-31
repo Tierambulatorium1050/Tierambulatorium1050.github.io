@@ -33,17 +33,6 @@ Arbeitergasse 4<br />
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice--info}
 
-## Achtung: Bis inklusive 31.7.23 gelten unsere Sommeröffnungszeiten:
-
-|  | Vormittag | Nachmittag |
-|-------|--------|---------|
-| Montag |   | 14:00 - 19:00 |
-| Dienstag |   | 14:00 - 19:00 |
-| Mittwoch | | 14:00 - 19:00 |
-| Donnerstag | | 14:00 - 19:00 |
-| Freitag |   | 14:00 - 19:00 |
-| Samstag | 09:30 - 13:30 |  | 
-
 ## Ab 1.8.2023 haben wir wieder regulär für Sie geöffnet:
 
 |  | Vormittag | Nachmittag |
