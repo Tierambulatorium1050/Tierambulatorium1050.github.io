@@ -52,7 +52,7 @@ feature_row:
     alt: "Mag. med. vet. Anna Zacher"
     title: "Mag. med. vet. Anna Zacher"
     excerpt: "Tierärztin"
-    url: "/team/anazacher/"
+    url: "/team/annazacher/"
     btn_label: "Mehr"
     btn_class: "btn--inverse"
 ---
