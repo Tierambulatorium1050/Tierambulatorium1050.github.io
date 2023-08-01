@@ -1,5 +1,5 @@
 ---
-title: "Mag. med. vet. Anna zacher"
+title: "Mag. med. vet. Anna Zacher"
 description: "Tierarzt"
 layout: single
 permalink: /team/annazacher/
