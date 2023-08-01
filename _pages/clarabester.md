@@ -1,5 +1,5 @@
 ---
-title: "Mag. med. vet. Petra Gerzabek"
+title: "Mag. med. vet. Clara Bester MRCVS"
 description: "Tierarzt"
 layout: single
 permalink: /team/clarabester/

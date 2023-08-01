@@ -33,7 +33,7 @@ Arbeitergasse 4<br />
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice--info}
 
-## Ab 1.8.2023 haben wir wieder regulär für Sie geöffnet:
+## Unsere Öffnungszeiten:
 
 |  | Vormittag | Nachmittag |
 |-------|--------|---------|

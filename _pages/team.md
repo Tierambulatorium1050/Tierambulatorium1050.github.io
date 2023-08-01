@@ -48,10 +48,17 @@ feature_row:
     url: "/team/clarabester/"
     btn_label: "Mehr"
     btn_class: "btn--inverse"
+  - image_path: "/assets/images/anna.jpg" 
+    alt: "Mag. med. vet. Anna Zacher"
+    title: "Mag. med. vet. Anna Zacher"
+    excerpt: "Tierärztin"
+    url: "/team/anazacher/"
+    btn_label: "Mehr"
+    btn_class: "btn--inverse"
 ---
 Wir freuen uns, Ihnen unser professionelles und engagiertes Tierarzt-Team vorzustellen.
 
-Unser Team besteht aus vier erfahrenen Tierärztinnen und Tierärzten sowie einer ausgebildeten Tierpflegerin. Uns alle verbindet, dass wir uns leidenschaftlich um das Wohl Ihrer Haustiere kümmern. Das Wohlergehen Ihres Tieres ist unser höchstes Anliegen. Daher geben wir täglich unser Bestes, damit Ihr Tier stets eine ausgezeichnete medizinische Versorgung erhält.
+Unser Team besteht aus fünf erfahrenen Tierärztinnen und Tierärzten sowie einer ausgebildeten Tierpflegerin. Uns alle verbindet, dass wir uns leidenschaftlich um das Wohl Ihrer Haustiere kümmern. Das Wohlergehen Ihres Tieres ist unser höchstes Anliegen. Daher geben wir täglich unser Bestes, damit Ihr Tier stets eine ausgezeichnete medizinische Versorgung erhält.
 
 {% include feature_row %}
 
