@@ -8,7 +8,7 @@ canonical_url: 'https://vetcat.at/team/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/team.jpeg
+  overlay_image: /assets/images/team-2.jpg
 excerpt: "Tierarztpraxis am Bacherplatz : Unser Team"
 ---
 
