@@ -40,8 +40,10 @@ Dank unseres in-house Labors können entfällt die übliche Wartezeit auf das Er
 ## Ultraschall
 
 Unser top modernes Ultraschallgerät erlaubt uns die sonografische Untersuchung Ihres Lieblings. Dabei bringt das Gerät Schallwellen außerhalb des hörbaren Bereiches zum Einsatz. Diese schallwellen werden bei der Untersuchung an den Grenzflächen der Organe reflektiert und das Ultraschallgerät stellt diese Informationen dann als Bild dar.
-Schallwellen eignen sich besonders zur Untersuchung von Bauchorganen und Weichteilen. Ebenso ist die Kontrolle einer Trächtigkeit ein wichtiger Anwendungsfall.
+Schallwellen eignen sich besonders zur Untersuchung von Bauchorganen und Weichteilen. Ebenso ist die Kontrolle einer Trächtigkeit ein wichtiger Anwendungsfall. 
 
+## Herz Ultraschall
+Die Ultraschall Untersuchung des Herzens (kurz Herzschall) ist eine spezialform der Ultraschalluntersuchung. Dabei kommt eine eigene Sonde und spezielle Software zu Einsatz. Ziel ist es, das Herz genau zu überprüfen und gegebenenfalls Probleme frühzeitig zu erkennen. Die meisten Herzprobleme können mit Medikamenten gut eingestellt werden.
 
 ## Blutdruck Messung
 

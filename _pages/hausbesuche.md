@@ -18,7 +18,7 @@ Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei 
 
 **Ihre TierärztInnen in Wien**
 
-Mag. Corinna Rotsejdl  
+Tierarztpraxis am Bacherplatz 
 Arbeitergasse 4/4, 1050 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
@@ -52,9 +52,11 @@ Wir besuchen Sie gerne im 5. Bezirk, aber auch in:
 
 
 **Buchen Sie hier Ihren Termin bei uns:**
+Wenn Sie einen Hausbesuch wünschen, melden Sie sich bitte telefonisch bei uns um alle Details abzuklären.
 
-Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei uns ausmachen!
-[Buchungstool](./buchungstool.md) Sollten Sie einen Hausbesuch wünschen, geben Sie das bitte extra an!
+Für Termine in unserer Ordination können Sie gerne auch unser Buchungstool benutzen:
+Mit dem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei uns ausmachen!
+[Buchungstool](./buchungstool.md) 
 
 **Tierarzt für Ihren Bezirk!**
 

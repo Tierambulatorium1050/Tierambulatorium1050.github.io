@@ -26,6 +26,7 @@ Wir bieten Ihnen das komplette Leistungsspektrum der modernen Veterinärmedizin 
 - Dermatologie
 - Diagnostik
 - Kardiologie
+- Herzultraschall
 - Orthopädie
 - Chirurgie
 - Kastration

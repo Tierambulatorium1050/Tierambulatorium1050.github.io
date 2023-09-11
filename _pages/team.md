@@ -5,7 +5,7 @@ layout: single
 classes: wide
 permalink: /team/
 description: "Wir sind aus Überzeugung für Tiere da."
-excerpt: "Unser Team arbeitet aus Liebe zum Tier."
+excerpt: "Wir arbeiten aus Liebe zum Tier."
 header:
   image: "/assets/images/team-2.jpg"
   height: 50%
