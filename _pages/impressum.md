@@ -15,7 +15,7 @@ header:
 
 **Tierarztpraxis am Bacherplatz**
 
-Tierarztpraxis "Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl"<br />
+Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl<br />
 Arbeitergasse 4/4<br />
 1050 Wien<br />
 Österreich<br />
@@ -26,7 +26,7 @@ E-Mail: [praxis@vetcat.at](mailto:praxis@vetcat.at)
 
 **Hinweis: neue Inhaberin seit 1.3.2022**
 
-Das Tierambulatorium am Bacherplatz ist seit 1.3.2022 im Besitz von Mag. Corinna Rotsejdl. Vor dem 1.3.2022 war das Tierambulatorium am Bacherplatz im Besitz von Mag. Judith Katzensteiner. Sämtliche Kontaktdaten bleiben unverändert.
+Die Tierarztpraxis am Bacherplatz (vormals Tierambulatorium am Bacherplatz) ist seit 1.3.2022 im Besitz von Mag. Corinna Rotsejdl. Vor dem 1.3.2022 war das Tierambulatorium am Bacherplatz im Besitz von Mag. Judith Katzensteiner. Sämtliche Kontaktdaten bleiben unverändert.
 
 **Haftungsausschluss**
 

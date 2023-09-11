@@ -39,7 +39,7 @@ social:
   name: "Tierarztpraxis am Bacherplatz"
   links:
     - https://www.facebook.com/TierambulatoriumAmBacherplatz
-    - https://www.instagram.com/tierambulatoriumambacherplatz
+    - https://www.instagram.com/tierarztpraxisambacherplatz
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -90,7 +90,7 @@ Sa: 09:30 - 13:30 "
   links:
     - label: "Arbeitergasse 4, 1050 Wien"
       icon: "fa-solid fa-fw fa-location-dot"
-      url: "https://www.google.com/maps/place/Tierambulatorium+am+Bacherplatz/@48.1871774,16.352214,16.87z/data=!4m5!3m4!1s0x476da82f2e762efb:0x205402a529b2d653!8m2!3d48.1870109!4d16.354401?hl=de"
+      url: "https://www.google.com/maps/place/Tierarztpraxis+am+Bacherplatz/@48.1871774,16.352214,16.87z/data=!4m5!3m4!1s0x476da82f2e762efb:0x205402a529b2d653!8m2!3d48.1870109!4d16.354401?hl=de"
     - label: "praxis@vetcat.at"
       icon: "fa-solid fa-fw fa-envelope"
       url: "mailto:praxis@vetcat.at"
@@ -102,7 +102,7 @@ Sa: 09:30 - 13:30 "
       url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
     - label: "Instagram"
       icon: "fa-brands fa-fw fa-instagram"
-      url: "https://www.instagram.com/tierambulatoriumambacherplatz/"
+      url: "https://www.instagram.com/tierarztpraxisambacherplatz/"
 
 footer:
   links:
@@ -117,7 +117,7 @@ footer:
       url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
     - label: "Instagram"
       icon: "fa-brands fa-fw fa-instagram"
-      url: "https://www.instagram.com/tierambulatoriumambacherplatz/"
+      url: "https://www.instagram.com/tierarztpraxisambacherplatz/"
 
 atom_feed:
   hide: true
