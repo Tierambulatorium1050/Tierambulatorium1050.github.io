@@ -7,11 +7,11 @@ toc: false
 permalink: /chirurgie/
 
 feature_row:
-  - image_path: "/assets/images/chirurgie2.jpeg"
+  - image_path: "/assets/images/logo-large.jpg"
     alt: "Narkose"
     title: "Narkose"
     excerpt: "Die Narkose ist für jeden Patienten und Eingriff individuell berechnet. Die Devise ist 'So viel wie nötig, so wenig wie möglich.'"
-  - image_path: "/assets/images/chirurgie1.jpeg"
+  - image_path: "/assets/images/logo-large.jpg"
     alt: "Operation"
     title: "Operation"
     excerpt: "Während der Operation wird konzentriert und steril gearbeitet. "
@@ -35,16 +35,13 @@ Ein Anästhesist überwacht während des chirurgischen Eingriffes die Vitalparam
 
 ## Narkose
 
-Write more
-
 
 
 ## Operation
 
-And more
 
 ## Aufwachphase
 
-and more
+
 
 <i class="fa-solid fa-arrow-left-long"></i> [Zurück zu den Leistungen](/leistungen/)
