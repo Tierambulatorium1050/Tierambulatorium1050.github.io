@@ -80,11 +80,7 @@ author:
   name: "Tierarztpraxis <br/>am Bacherplatz <br/> <br/>
   Mag. Corinna Rotsejdl"
   bio: "<b>Unsere Öffnungszeiten</b><br/>
-Mo: 09:30 - 19:00 <br/>
-Di: 09:30 - 19:00 <br/>
-Mi: 14:00 - 19:00 <br/>
-Do: 14:00 - 19:00 <br/>
-Fr: 09:30 - 19:00 <br/>
+Mo-Fr: 09:30 - 19:00 <br/>
 Sa: 09:30 - 13:30 "
   avatar: "/assets/images/corinna-2.jpg"
   links:
