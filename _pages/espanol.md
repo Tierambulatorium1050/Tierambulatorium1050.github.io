@@ -47,7 +47,7 @@ Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl
 Arbeitergasse 4/4, 1050 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
-{: .notice--info}
+{: .notice}
 
 **Nuestro horario de apertura:**
 
@@ -71,4 +71,4 @@ Arbeitergasse 4/4, 1050 Wien
   <i class="fa-solid fa-fw fa-train-subway"></i> U4 (Pilgramgasse)<br />
   <i class="fa-solid fa-fw fa-bus"></i> 12A, 14A, 59A (Reinprechtsdorf Straße, Arbeitergasse)<br />
   <i class="fa-solid fa-fw fa-train"></i> R 3, R, REX 1, REX 2, REX 3, REX 9, S1, S2, S3, S4, S80 (Bahnhof Matzleinsdorfer Platz)
-</div>{: .notice--info}
+</div>{: .notice}

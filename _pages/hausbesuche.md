@@ -22,7 +22,7 @@ Tierarztpraxis am Bacherplatz
 Arbeitergasse 4/4, 1050 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
-{: .notice--info}
+{: .notice}
 
 
 

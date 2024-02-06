@@ -31,7 +31,7 @@ Arbeitergasse 4<br />
 1050 Wien  <br />
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
-{: .notice--info}
+{: .notice}
 
 ## Unsere Öffnungszeiten:
 
