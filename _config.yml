@@ -21,12 +21,12 @@
 liquid:
   error_mode: strict
 
-logo: /assets/images/tab_animals_sml.png
+logo: /assets/images/tab_animals_sml.webp
 name: "Ihr Tierarzt in 1050 Wien"
 title: "Tierarztpraxis Bacherplatz"
 tagline: "Ihr Tierarzt in Wien"
 description:  "Ihre kompetenten Tierärztinnen in 1050 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
-image: "/assets/images/tab_animals_sml.png"
+image: "/assets/images/tab_animals_sml.webp"
 
 email: "praxis@vetcat.at"
 locale: de_AT
