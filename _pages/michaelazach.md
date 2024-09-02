@@ -21,7 +21,7 @@ Die Liebe verschlug mich nach Oberösterreich, wo ich auch nach der Trennung bli
 Tierschutz und soziales Engagement sind mir eine Herzensangelegeneheit, weshalb ich ehrenamtlich in der tierärztlichen Versorgungsstelle des Neunerhauses mithelfe.
 Nach 20-jähriger Selbständigkeit führt mich das Schicksal wieder nach Wien, wo ich nun von den Kollegen der
 Tierarztpraxis am Bacherplatz mit offenen Armen aufgenommen wurde. Hier werde ich mich in den kommenden Jahren für die Tiere und deren Besitzer engagieren.
-Ausgleich findet ich bei Yogaretreats, Gartenreisen und Kulturgenuß mit Freunden.
+Ausgleich finde ich bei Yogaretreats, Gartenreisen und Kulturgenuss mit Freunden.
  
 
 [zurück zu 'Team'](/team/)
