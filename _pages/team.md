@@ -43,7 +43,7 @@ feature_row:
     url: "/team/michaelazach/"
     btn_label: "Mehr"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/logo-small.jpg" 
+  - image_path: "/assets/images/gottfried.jpeg" 
     alt: "Mag. med. vet. Gottfried Nemec"
     title: "Mag. med. vet. Gottfried Nemec"
     excerpt: "Tierarzt"
