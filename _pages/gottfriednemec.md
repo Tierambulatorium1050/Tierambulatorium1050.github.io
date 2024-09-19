@@ -19,7 +19,3 @@ Wer hätte damals, als ich als naturwissenschaftlich interessierter junger Mann,
 Jetzt wieder in der Privatpraxis werde ich meine vielfältigen Erfahrungen im Dienste von Tier und Mensch einbringen. Ob Infektionkrankheiten inkl. Mittelmeerkrankheiten, chronischen Darm oder Hautkrankheiten, versuche ich stets Teil jener Veränderung zu sein, die durch aktuelle Erkenntnisse der Forschung zu neueren und verbesserten Behandlungen führt.
 
 [zurück zu 'Team'](/team/)
-
-
-
-[zurück zu 'Team'](/team/)
