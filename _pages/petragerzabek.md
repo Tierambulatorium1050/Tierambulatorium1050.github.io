@@ -1,7 +1,8 @@
 ---
 title: "Mag. med. vet. Petra Gerzabek"
 description: "Tierarzt"
-layout: single
+redirect:   https://vetcat.at/team/
+layout:     redirect
 permalink: /team/petragerzabek/
 canonical_url: 'https://vetcat.at/team/'
 header:

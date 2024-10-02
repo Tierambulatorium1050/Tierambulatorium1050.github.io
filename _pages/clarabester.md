@@ -1,7 +1,8 @@
 ---
 title: "Mag. med. vet. Clara Bester, MSc MRCVS"
 description: "Tierarzt"
-layout: single
+redirect:   https://vetcat.at/team/
+layout:     redirect
 permalink: /team/clarabester/
 canonical_url: 'https://vetcat.at/team/'
 header:
