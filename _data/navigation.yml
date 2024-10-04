@@ -7,6 +7,8 @@ main:
     url: /leistungen/
   - title: "Kontakt"
     url: /kontakt/
+  - title: "Hausbesuche"
+    url: /hausbesuche/
   - title: "English"
     url: /english/
   - title: "Español"
