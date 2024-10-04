@@ -24,6 +24,8 @@ Unsere Tierärztinnen und Tierärzte bieten Sprechstunden auf Deutsch, [Englisch
 
 Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzumelden. Entweder in unserem <b>[Online Buchungssystem](/buchungstool/)</b> oder gerne auch telefonisch unter <b><a href="tel:+43 1 54 54 976">+43 1 54 54 976</a></b>.
 
+Gerne besuchen wir Sie und Ihre Vierbeiner auch zu Hause! Mit unserem Ordinationsauto kommen wir in ganz Wien zu Ihnen. Mehr dazu: <b>[Hausbesuche](/hausbesuche/)</b>
+
 Wir freuen uns auf Ihren Besuch!
 
 Tierarztpraxis am Bacherplatz (Vormals Tierambulatorium am Bacherplatz)<br />

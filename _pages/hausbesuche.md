@@ -1,20 +1,15 @@
 ---
 title: "Tierarzt Hausbesuch Wien"
 canonical_url: 'https://vetcat.at/'
-description: "Tierarzt 1010, Tierarzt 1030, Tierarzt 1040, Tierarzt 1050, Tierarzt 1060, Tierarzt 1070, Tierarzt 1080, Tierarzt 1100, Tierarzt Meidling"
+description: "Tierarzt 1010, Tierarzt 1020, Tierarzt 1030, Tierarzt 1040, Tierarzt 1050, Tierarzt 1060, Tierarzt 1070, Tierarzt 1080, Tierarzt 1090, Tierarzt 1100, Tierarzt 1110, Tierarzt 1120, Tierarzt 1130, Tierarzt Meidling, Tierarzt 1140, Tierarzt 1150, Tierarzt 1160, Tierarzt 1170, Tierarzt 1180, Tierarzt 1190, Tierarzt 1200, Tierarzt 1210, Tierarzt 1220, Tierarzt 1230"
 layout: single
 permalink: /hausbesuche/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/animal7.jpg
-excerpt: "Wenn es hilft, kommen wir gerne zu Ihnen."
+excerpt: "Um zu helfen, kommen wir gerne zu Ihnen."
 ---
-
-**Buchen Sie hier Ihren Termin bei uns:**
-
-Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei uns ausmachen! Sollten Sie dabei einen Hausbesuch wünschen, geben Sie das bitte extra an!
-[Buchungstool](./buchungstool.md)
 
 **Ihre TierärztInnen in Wien**
 
@@ -25,40 +20,32 @@ Arbeitergasse 4/4, 1050 Wien
 {: .notice}
 
 
-
 **Tierärztliche Hausbesuche in Wien:**
 
-Gerne übernehmen wir auch Hausbesuche um Sie und Ihr Tier zu unterstützen, wenn der Weg in die Praxis nur schwer möglich ist. Ebenso, um Ihrem Tier unnötigen Stress zu ersparen - vor allem natürlich dann, wenn Ihr Tier eingeschläfert werden muss.
+Gerne übernehmen wir auch Hausbesuche, um Sie und Ihr Tier zu unterstützen. Dies ist besonders sinnvoll, wenn der Weg in die Praxis nur schwer möglich ist; Ebenso, um Ihrem Tier unnötigen Stress zu ersparen - auch dann, wenn Ihr Tier eingeschläfert werden muss.
 
-Bitte bedenken Sie aber, dass eine gründliche Untersuchung oder Behandlung Ihres Tieres zu Hause oft eingeschränkt möglich ist. Tiere sind zu Hause oft schwieriger zu handeln als in der Praxis und schätzen das Eindringen in ihr Revier bzw. ihr Zuhause oft gar nicht!
+Wir sind stets bemüht, für Sie kosteneffiziente Lösungen zu finden, deshalb weisen wir darauf hin, dass ein Hausbesuch aufgrund des Aufwandes mit Mehrkosten verbunden ist. 
 
-Wir sind stets bemüht für Sie kosteneffiziente Lösungen zu finden, deshalb weisen wir darauf hin, dass ein Hausbesuch aufgrund des Aufwandes mit Mehrkosten verbunden ist. Ein Besuch in der Ordination ist günstiger.
+**Kosten für einen Hausbesuch**
 
-**Ihr Tierarzt Team in 1050 Wien!**
+Wir besuchen Sie gerne in ganz Wien. Dabei wird je nach Distanz zu unserer Ordination eine feste Fahrpauschale berechnet.  Zu dieser Pauschale fallen dann die regulären Behandlungskosten an, wie sie auch in der Ordination anfallen würden.
 
-Wir besuchen Sie gerne im 5. Bezirk, aber auch in:
-* 1030 Wien (3. Bezirk, Landstraße),
-* 1040 Wien (4. Bezirk, Wieden),
-* 1050 Wien (5. Bezirk, Margareten),
-* 1060 Wien (6. Bezirk, Mariahilf),
-* 1070 Wien (7. Bezirk, Neubau),
-* 1080 Wien (8. Bezirk, Josefstadt),
-* 1090 Wien (9. Bezirk, Alsergrund),
-* 1100 Wien (10. Bezirk, Favoriten),
-* 1110 Wien (11. Bezirk, Simmering),
-* 1120 Wien (12. Bezirk, Meidling),
-* Generell auf Anfrage!
+**Alle Möglichkeiten**
 
-
+Je nach Lage, kommen wir zu Fuß, oder mit unserem Ordinationsauto zu Ihnen. Wir bieten außerdem auch Hol- und Bringdienste für Sie und Ihr Tier, oder Ihr Tier alleine, wenn Sie zB. nicht mobil sind. Bitte fragen Sie uns dazu.
 
 **Buchen Sie hier Ihren Termin bei uns:**
-Wenn Sie einen Hausbesuch wünschen, melden Sie sich bitte telefonisch bei uns um alle Details abzuklären.
 
-Für Termine in unserer Ordination können Sie gerne auch unser Buchungstool benutzen:
-Mit dem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei uns ausmachen!
-[Buchungstool](./buchungstool.md) 
+Wenn Sie einen Hausbesuch wünschen, melden Sie sich bitte telefonisch oder via E-Mail bei uns, um alle Details abzuklären.
 
-**Tierarzt für Ihren Bezirk!**
+Tierarztpraxis am Bacherplatz 
+Arbeitergasse 4/4, 1050 Wien  
+<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
+<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
+{: .notice}
 
-Unser Einzugsgebiet geht weit über den 5. Bezirk hinaus!
-Unsere lieben Patienten kommen häufig aus Favoriten (1100), Hauptbahnhof und Sonnwendviertel, aus Wien Landstraße (1030), Wien Meidling (1120), Mariahilf (1060), Neubau (1070), Rudolfsheim-Fünfhaus (1150) und Innere Stadt (1010).
+**Region**
+
+Wir besuchen Sie gerne in ganz Wien! Fragen Sie uns nach der jeweiligen Fahrkostenpauschale für Ihre Adresse!
+
+Für Termine vor Ort, in unserer Ordination können Sie gerne auch unser Buchungstool benutzen: [Buchungstool](./buchungstool.md) 
