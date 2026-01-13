@@ -57,3 +57,7 @@ Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei 
 
 Unser Einzugsgebiet geht weit über den 5. Bezirk hinaus!
 Unsere lieben Patienten kommen häufig aus Favoriten (1100), Hauptbahnhof und Sonnwendviertel, aus Wien Landstraße (1030), Wien Meidling (1120), Mariahilf (1060), Neubau (1070), Rudolfsheim-Fünfhaus (1150) und Innere Stadt (1010).
+
+**Besuchen Sie auch unsere Zweigstelle in der Donaustadt - die Tierarztpraxis am Mühlgrund!**
+
+Jetzt neu, in 1220 Wien! [www.tierarzt.cc](www.tierarzt.cc)
