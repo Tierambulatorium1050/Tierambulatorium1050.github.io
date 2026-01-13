@@ -6,13 +6,7 @@ classes: wide
 permalink: /team/
 description: "Wir sind aus Überzeugung für Tiere da."
 excerpt: "Wir arbeiten aus Liebe zum Tier."
-header:
-  image: "/assets/images/team-2.jpg"
-  height: 50%
 
-  actions:
-  - label: "Termin buchen!"
-    url: "/buchungstool/"
 
 feature_row:
   - image_path: "/assets/images/corinna2022.jpeg"
