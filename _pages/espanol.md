@@ -23,7 +23,7 @@ feature_row:
   - image_path: "/assets/images/kitten.jpg" 
     alt: "Atención médica"
     title: "Atención médica"
-    excerpt: "Cuidado de la salud, disposiciones para la vejez, asesoria nutricional, implantación de chip (Transponder) y pasaporte de vacunación de la UE, visitas a domicilio, farmacia interna, asesoria sobre vacunación, asesoria sobre roedores"
+    excerpt: "Cuidado de la salud, disposiciones para la vejez, asesoría nutricional, implantación de chip (Transponder) y pasaporte de vacunación de la UE, visitas a domicilio, farmacia interna, asesoría sobre vacunación, asesoría sobre roedores"
    
 ---
 
@@ -36,7 +36,7 @@ Nuestro consultorio veterinario, ubicado en el distrito 5 de Viena, está equipa
 
 Nosotros estamos atendiendo consulta en alemán, inglés y español.
 
-Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro [calendario de citas en línea (esta solo disponible en alemán, pero es muy fácil de usar)](./buchungstool.md) o estaremos atentos de atenderlos en nuestro teléfono +43 1 54 54 976.
+Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro [calendario de citas en línea (está solo disponible en alemán, pero es muy fácil de usar)](./buchungstool.md) o estaremos atentos de atenderlos en nuestro teléfono +43 1 54 54 976.
 
 Esperamos su visita.
 
