@@ -34,11 +34,11 @@ Beim Verfassen der auf dieser Website veröffentlichten Texte und Informationen 
 
 **Copyright & Nutzungsbestimmungen**
 
-Die auf dieser Website veröffentlichten Inhalte sind urheberrechtlich geschützt. Eine Verwendeung erfordert die schriftliche Zustimmung des Medieninhabers (Mag. Corinna Rotsejdl).
+Die auf dieser Website veröffentlichten Inhalte sind urheberrechtlich geschützt. Eine Verwendung erfordert die schriftliche Zustimmung des Medieninhabers (Mag. Corinna Rotsejdl).
 Darüber hinaus kommen auf [vetcat.at](https://vetcat.at) Bilder von unsplash.com zur Verwendung Lizenz: [Unsplash](https://unsplash.com/license).
 
 **Links** 
 
 Links zu [vetcat.at](https://vetcat.at) (inkl. einzelner Seiten) sind  zulässig und auch erwünscht. Nicht gestattet ist lediglich die direkte Verlinkung der eingebundenen Grafiken.
 
-Für Links von [vetcat.at](https://vetcat.at) zu externen Seiten wird keine Haftung übernommen (geregelt durch § 17 ECG). Grundsätzlich gilt, dass alle auf [vetcat.at](https://vetcat.at) gesetzen Links überprüft wurden und zum Zeitpunkt ihrer Verlinkung keinerlei rechtswidrigen oder bedenklichen Inhalt hatten. Sollte Ihnen dennoch ein solcher Link auffallen (etwa, weil sich der Inhalt in der Zwischenzeit geändert hat), bitten wir um entsprechende Mitteilung per E-Mail. Der Link wird dann unverzüglich entfernt.
+Für Links von [vetcat.at](https://vetcat.at) zu externen Seiten wird keine Haftung übernommen (geregelt durch § 17 ECG). Grundsätzlich gilt, dass alle auf [vetcat.at](https://vetcat.at) gesetzten Links überprüft wurden und zum Zeitpunkt ihrer Verlinkung keinerlei rechtswidrigen oder bedenklichen Inhalt hatten. Sollte Ihnen dennoch ein solcher Link auffallen (etwa, weil sich der Inhalt in der Zwischenzeit geändert hat), bitten wir um entsprechende Mitteilung per E-Mail. Der Link wird dann unverzüglich entfernt.
