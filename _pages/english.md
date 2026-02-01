@@ -1,5 +1,5 @@
 ---
-title: Welcome english speakers!
+title: Welcome English speakers!
 description: English speaking veterinary surgeon 1050 Vienna.
 classes: wide
 layout: single
@@ -27,17 +27,17 @@ feature_row:
    
 ---
 
-**Tierarztpraxis am Bacherplatz, your english speaking veterinarian in 1050 Vienna**  
+**Tierarztpraxis am Bacherplatz, your English-speaking veterinarian in 1050 Vienna**  
 
 Dear pet owners,
 
-Veterinarian Corinna Rotsejdl and the veterinary team of the animal outpatient clinic at Bacherplatz (Tierambulattorium am Bacherplatz) will be happy to take care of all the medical needs of your pet. Personal advice and support are particularly important to us.
+Veterinarian Corinna Rotsejdl and the veterinary team of the animal outpatient clinic at Bacherplatz (Tierarztpraxis am Bacherplatz) will be happy to take care of all the medical needs of your pet. Personal advice and support are particularly important to us.
 
 Our ordination in 1050 Vienna is equipped with the most modern equipment at the clinic level. Our goal is to combine the personal care of a small practice with the performance of a large veterinary clinic.
 
 We offer consultation hours in German, English and also Spanish.
 
-In order to avoid waiting times, we kindly ask you to register with us before your visit. Either in our [online calendar (only available in german, but easy to use)](./buchungstool.md) or by phone at  <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>.
+In order to avoid waiting times, we kindly ask you to register with us before your visit. Either in our [online calendar (only available in German, but easy to use)](./buchungstool.md) or by phone at  <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>.
 We'd love to help you.
 
 We are looking forward to your visit!
