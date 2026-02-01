@@ -11,7 +11,7 @@ header:
 excerpt: "Um zu helfen, kommen wir gerne zu Ihnen."
 ---
 
-**Ihre TierärztInnen in Wien**
+**Ihre Tierärztinnen und Tierärzte in Wien**
 
 Tierarztpraxis am Bacherplatz 
 Arbeitergasse 4/4, 1050 Wien  
@@ -22,7 +22,7 @@ Arbeitergasse 4/4, 1050 Wien
 
 **Tierärztliche Hausbesuche in Wien:**
 
-Gerne übernehmen wir auch Hausbesuche, um Sie und Ihr Tier zu unterstützen. Dies ist besonders sinnvoll, wenn der Weg in die Praxis nur schwer möglich ist; Ebenso, um Ihrem Tier unnötigen Stress zu ersparen - auch dann, wenn Ihr Tier eingeschläfert werden muss.
+Gerne übernehmen wir auch Hausbesuche, um Sie und Ihr Tier zu unterstützen. Dies ist besonders sinnvoll, wenn der Weg in die Praxis nur schwer möglich ist; ebenso, um Ihrem Tier unnötigen Stress zu ersparen - auch dann, wenn Ihr Tier eingeschläfert werden muss.
 
 Wir sind stets bemüht, für Sie kosteneffiziente Lösungen zu finden, deshalb weisen wir darauf hin, dass ein Hausbesuch aufgrund des Aufwandes mit Mehrkosten verbunden ist. 
 
@@ -32,7 +32,7 @@ Wir besuchen Sie gerne in ganz Wien. Dabei wird je nach Distanz zu unserer Ordin
 
 **Alle Möglichkeiten**
 
-Je nach Lage, kommen wir zu Fuß, oder mit unserem Ordinationsauto zu Ihnen. Wir bieten außerdem auch Hol- und Bringdienste für Sie und Ihr Tier, oder Ihr Tier alleine, wenn Sie zB. nicht mobil sind. Bitte fragen Sie uns dazu.
+Je nach Lage, kommen wir zu Fuß, oder mit unserem Ordinationsauto zu Ihnen. Wir bieten außerdem auch einen Hol- und Bringdienst für Sie und Ihr Tier, oder Ihr Tier alleine, wenn Sie z.B. nicht mobil sind. Bitte fragen Sie uns dazu.
 
 **Buchen Sie hier Ihren Termin bei uns:**
 
