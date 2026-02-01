@@ -27,7 +27,7 @@ Arbeitergasse 4/4, 1050 Wien
 
 
 
-**So finden Sie zu unsrer Tierarztpraxis in Wien:**
+**So finden Sie zu unserer Tierarztpraxis in Wien:**
 Unsere Ordination ist wenige Schritte von der Reinprechtsdorferstrasse entfernt, in der Arbeitergasse 4.
 
 
