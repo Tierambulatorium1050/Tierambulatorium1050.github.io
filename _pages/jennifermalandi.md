@@ -13,7 +13,6 @@ excerpt: "Tierarztpraxis am Bacherplatz : Unser Team"
 
 **Mag. med. vet. Jennifer Malandi, Fachtierärztin**
 
-<>![Mag. med. vet. Johanna Mihalko](/assets/images/johanna_large.jpg){: .align-left style="width: 50%;"}
 
 FTA Kleintiere, ÖTK Diplom Ernährungsberatung
 
