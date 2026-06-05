@@ -58,7 +58,7 @@ feature_row:
     url: "/team/sarahpittrich/"
     btn_label: "Mehr"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/jennifer.jpg" 
+  - image_path: "/assets/images/tab_animals_sml.webp" 
     alt: "Mag. med. vet. Jennifer Malandi"
     title: "Mag. med. vet. Jennifer Malandi"
     excerpt: "Tierärztin (FTA, Fachtierärztin)"
