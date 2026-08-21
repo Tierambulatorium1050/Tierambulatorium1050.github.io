@@ -6,16 +6,27 @@ classes: wide
 ---
 
 <style>
+  .page {
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
+
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
   .shop-wrapper {
     width: 100%;
-    max-width: none;
     margin: 0;
+    padding: 0;
   }
 
   .shop-frame {
     display: block;
     width: 100%;
-    height: calc(100vh - 140px);
+    height: calc(100vh - 120px);
     min-height: 750px;
     border: 0;
     background: #fff;
@@ -23,7 +34,7 @@ classes: wide
 
   @media (max-width: 768px) {
     .shop-frame {
-      height: calc(100vh - 100px);
+      height: calc(100vh - 90px);
       min-height: 650px;
     }
   }
