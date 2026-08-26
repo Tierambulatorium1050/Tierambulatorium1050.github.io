@@ -6,6 +6,12 @@ classes: wide
 ---
 
 <style>
+  /* Seitentitel ausblenden */
+  .page__title {
+    display: none;
+  }
+
+  /* Inhaltsbereich möglichst breit machen */
   .page {
     width: 100% !important;
     padding-right: 0 !important;
@@ -23,13 +29,14 @@ classes: wide
     padding: 0;
   }
 
+  /* Hinweisbanner */
   .shop-notice {
     position: sticky;
     top: 0;
     z-index: 1000;
 
-    padding: 14px 20px;
     margin: 0;
+    padding: 0;
 
     background: #eef7ff;
     border-bottom: 1px solid #c9e4f7;
@@ -38,10 +45,21 @@ classes: wide
     line-height: 1.5;
   }
 
-  .shop-notice strong {
+  .shop-notice summary {
+    padding: 12px 20px;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .shop-notice summary strong {
     font-weight: 700;
   }
 
+  .shop-notice-content {
+    padding: 0 20px 14px 20px;
+  }
+
+  /* Shop-Frame */
   .shop-frame {
     display: block;
     width: 100%;
@@ -52,28 +70,42 @@ classes: wide
     background: #fff;
   }
 
+  /* Mobile */
   @media (max-width: 768px) {
-
     .shop-notice {
-      padding: 12px 14px;
       font-size: 0.88rem;
     }
 
-    .shop-frame {
-      height: calc(100vh - 150px);
-      min-height: 650px;
+    .shop-notice summary {
+      padding: 10px 14px;
     }
 
+    .shop-notice-content {
+      padding: 0 14px 12px 14px;
+    }
+
+    .shop-frame {
+      height: calc(100vh - 140px);
+      min-height: 650px;
+    }
   }
 </style>
 
-
 <div class="shop-wrapper">
 
-  <div class="shop-notice">
-  In unserem Webshop in Kooperation mit VetNative finden Sie ein umfangreiches Sortiment. <strong>Bitte beachten Sie:</strong> Einige der angebotenen Produkte sind für besondere medizinische oder ernährungsphysiologische Bedürfnisse bestimmt. Diätfuttermittel und Nahrungsergänzungsmittel dürfen daher nur nach tierärztlicher Beratung verwendet werden, da sie Teil der Therapie sind.
-  </div>
+  <details class="shop-notice" open>
+    <summary>
+      <strong>Hinweis zu unserem Webshop</strong>
+    </summary>
 
+    <div class="shop-notice-content">
+      In unserem Webshop in Kooperation mit VetNative finden Sie ein umfangreiches Sortiment.
+      <strong>Bitte beachten Sie:</strong> Einige der angebotenen Produkte sind für besondere
+      medizinische oder ernährungsphysiologische Bedürfnisse bestimmt. Diätfuttermittel und
+      Nahrungsergänzungsmittel dürfen daher nur nach tierärztlicher Beratung verwendet werden,
+      da sie Teil der Therapie sind.
+    </div>
+  </details>
 
   <iframe
     class="shop-frame"
