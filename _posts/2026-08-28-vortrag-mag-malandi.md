@@ -13,7 +13,8 @@ Erfahren Sie, wie Sie im Ernstfall richtig handeln und Ihrem kleinen Liebling sc
 Anmeldungen bitte an : vereinbiophilie@gmail.com
 
 📅 14. September
-📍 Tierarztpraxis am Bacherplatz
+![Hyperthyreose](/assets/images/202608vortragjennifer.jpeg)
+
 [Unser Team](/team/)
 
 [Terminbuchung](/buchungstool/)
