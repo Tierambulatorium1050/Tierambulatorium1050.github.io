@@ -10,7 +10,7 @@ Am 14. September lädt unsere Fachtierärztin Mag. Jennifer Malandi zu einem spa
 
 Was ist ein echter Notfall? Was kann ich zu Hause tun? Und wann muss mein Tier sofort zum Tierarzt?
 Erfahren Sie, wie Sie im Ernstfall richtig handeln und Ihrem kleinen Liebling schnell helfen können. ❤️
-Anmeldungen bitte an : vereinbiophilie@gmail.com
+Anmeldungen bitte via: vereinbiophilie@gmail.com
 
 📅 14. September
 ![Hyperthyreose](/assets/images/202608vortragjennifer.jpeg)
