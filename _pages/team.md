@@ -5,8 +5,16 @@ layout: single
 classes: wide
 permalink: /team/
 description: "Wir sind aus Überzeugung für Tiere da."
+image: /assets/images/team-comic-2026-v-formation-comic.webp
 excerpt: "Wir arbeiten aus Liebe zum Tier."
 
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.45"
+  overlay_image: /assets/images/team-comic-2026-v-formation-comic.webp
+  actions:
+    - label: "Termin buchen!"
+      url: "/buchungstool/"
 
 feature_row:
   - image_path: "/assets/images/corinna2022.jpeg"
@@ -68,7 +76,7 @@ feature_row:
 ---
 Wir freuen uns, Ihnen unser professionelles und engagiertes Tierarzt-Team vorzustellen.
 
-Unser Team besteht aus fünf erfahrenen Tierärztinnen und Tierärzten sowie einer ausgebildeten Tierpflegerin. Uns alle verbindet, dass wir uns leidenschaftlich um das Wohl Ihrer Haustiere kümmern. Das Wohlergehen Ihres Tieres ist unser höchstes Anliegen. Daher geben wir täglich unser Bestes, damit Ihr Tier stets eine ausgezeichnete medizinische Versorgung erhält.
+Unser Team besteht aus sieben erfahrenen Tierärztinnen und Tierärzten sowie einer ausgebildeten Tierpflegerin. Uns alle verbindet, dass wir uns leidenschaftlich um das Wohl Ihrer Haustiere kümmern. Das Wohlergehen Ihres Tieres ist unser höchstes Anliegen. Daher geben wir täglich unser Bestes, damit Ihr Tier stets eine ausgezeichnete medizinische Versorgung erhält.
 
 {% include feature_row %}
 
@@ -76,3 +84,4 @@ Unser Team besteht aus fünf erfahrenen Tierärztinnen und Tierärzten sowie ein
 
 Einblicke in unseren Arbeitsalltag bekommen Sie in unserer Fotogalerie!
 [Zur Fotogalerie](/gallery/)
+

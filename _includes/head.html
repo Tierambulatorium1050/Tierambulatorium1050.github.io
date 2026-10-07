@@ -27,6 +27,14 @@
 {% endif %}
 {% seo %}
 
+{% if page.url == "/" or page.url == "/english/" or page.url == "/espanol/" or page.url == "/magyar/" %}
+<link rel="alternate" hreflang="de-AT" href="{{ '/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ '/english/' | absolute_url }}">
+<link rel="alternate" hreflang="es" href="{{ '/espanol/' | absolute_url }}">
+<link rel="alternate" hreflang="hu" href="{{ '/magyar/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
+{% endif %}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,7 +85,7 @@
     }
   ],
 
-  "availableLanguage": ["de", "en", "es"],
+  "availableLanguage": ["de", "en", "es", "hu"],
 
   "sameAs": [
     "https://www.facebook.com/TierambulatoriumAmBacherplatz/",
@@ -90,7 +98,7 @@
       "@type": "ContactPoint",
       "telephone": "+43 1 54 54 976",
       "contactType": "customer service",
-      "availableLanguage": ["de", "en", "es"]
+      "availableLanguage": ["de", "en", "es", "hu"]
     }
   ],
 
@@ -121,3 +129,4 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="/assets/images/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
+

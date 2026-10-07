@@ -4,7 +4,7 @@ description: English speaking veterinary surgeon 1050 Vienna.
 classes: wide
 layout: single
 locale: en_US
-canonical_url: 'https://vetcat.at/'
+canonical_url: 'https://vetcat.at/english/'
 permalink: /english/
 header:
   overlay_color: "#000"
@@ -35,9 +35,9 @@ Veterinarian Corinna Rotsejdl and the veterinary team of the animal outpatient c
 
 Our ordination in 1050 Vienna is equipped with the most modern equipment at the clinic level. Our goal is to combine the personal care of a small practice with the performance of a large veterinary clinic.
 
-We offer consultation hours in German, English and also Spanish.
+We offer consultations in German, English, Spanish and [Hungarian](/magyar/). Please let us know your preferred language when booking.
 
-In order to avoid waiting times, we kindly ask you to register with us before your visit. Either in our [online calendar (only available in German, but easy to use)](./buchungstool.md) or by phone at  <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>.
+In order to avoid waiting times, we kindly ask you to register with us before your visit. Either in our [online calendar (only available in German, but easy to use)](/buchungstool/) or by phone at  <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>.
 We'd love to help you.
 
 We are looking forward to your visit!
@@ -75,3 +75,4 @@ Arbeitergasse 4/4, 1050 Wien
   <i class="fa-solid fa-fw fa-bus"></i> 12A, 14A, 59A (Reinprechtsdorf Straße, Arbeitergasse)<br />
   <i class="fa-solid fa-fw fa-train"></i> R 3, R, REX 1, REX 2, REX 3, REX 9, S1, S2, S3, S4, S80 (Bahnhof Matzleinsdorfer Platz)
 </div>{: .notice}
+

@@ -13,31 +13,32 @@ header:
 
 Wir bieten Ihnen das komplette Leistungsspektrum der modernen Veterinärmedizin auf dem Niveau einer Tierklinik. Alle Geräte in unserer Ordination sind top modern und sichern präzise Ergebnisse.
 
-- Vorsorgeuntersuchung
+- [Vorsorgeuntersuchung](/vorsorge-impfungen/)
 - Innere Medizin
-- Ernährungsberatung
+- [Ernährungsberatung](/ernaehrungsberatung/)
 - Hausapotheke
-- Hauseigenes Blutlabor
-- Ultraschall
+- [Hauseigenes Blutlabor](/in-house-labor/)
+- [Ultraschall](/ultraschall/)
 - EKG
-- Digitales Detektor Röntgen
+- [Digitales Röntgen](/digitales-roentgen/)
 - Gynäkologie
 - Urologie
-- Dermatologie
+- [Dermatologie](/dermatologie/)
 - Diagnostik
-- Kardiologie
-- Herzultraschall
+- [Kardiologie](/kardiologie/)
+- [Herzultraschall](/kardiologie/)
 - Orthopädie
-- Chirurgie
-- Kastration
+- [Chirurgie](/chirurgie/)
+- [Kastration](/kastration/)
 - Geburtshilfe
-- Impfberatung und Impfungen
-- Zahnbehandlung und Zahnsanierung
+- [Impfberatung und Impfungen](/vorsorge-impfungen/)
+- [Zahnbehandlung und Zahnsanierung](/zahnmedizin/)
 - Ophthalmologie
 - Schmerztherapie
 - Verhaltenstherapie
-- Kleine Heimtiere
+- [Kleine Heimtiere](/kleine-heimtiere/)
 - Vögel
 
 
 <i class="fa-solid fa-arrow-left-long"></i>  [Zurück zu den Leistungen](/leistungen/)
+

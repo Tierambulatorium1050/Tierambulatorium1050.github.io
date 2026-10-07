@@ -1,10 +1,10 @@
 ---
 title: Bienvenidos hispanohablantes!
-description: Veterinario de habla inglesa 1050 Viena.
+description: Veterinario de habla española en Viena 1050. Atención veterinaria personal para perros, gatos y pequeños animales.
 classes: wide
 layout: single
 locale: es_ES
-canonical_url: 'https://vetcat.at/'
+canonical_url: 'https://vetcat.at/espanol/'
 permalink: /espanol/
 header:
   overlay_color: "#000"
@@ -34,9 +34,9 @@ La Médica Veterinaria Corinna Rotsejdl y su equipo del consultorio veterinario 
 
 Nuestro consultorio veterinario, ubicado en el distrito 5 de Viena, está equipado con los equipos más modernos, que están al nivel de una clínica veterinaria. Nuestro objetivo es el combinar la atención personal de una pequeña práctica con el desempeño de una gran clínica veterinaria.
 
-Nosotros estamos atendiendo consulta en alemán, inglés y español.
+Ofrecemos consultas en alemán, inglés, español y [húngaro](/magyar/). Indíquenos su idioma preferido al reservar la cita.
 
-Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro [calendario de citas en línea (está solo disponible en alemán, pero es muy fácil de usar)](./buchungstool.md) o estaremos atentos de atenderlos en nuestro teléfono +43 1 54 54 976.
+Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro [calendario de citas en línea (está solo disponible en alemán, pero es muy fácil de usar)](/buchungstool/) o estaremos atentos de atenderlos en nuestro teléfono +43 1 54 54 976.
 
 Esperamos su visita.
 
@@ -54,7 +54,7 @@ Arbeitergasse 4/4, 1050 Wien
 | día | tiempo |
 |-------|--------|
 | lunes - viernes | 09:30 - 19:00 |
-| sábato | 09:30 - 13:30 | 
+| sábado | 09:30 - 13:30 | 
 
 
 <br />
@@ -72,3 +72,4 @@ Arbeitergasse 4/4, 1050 Wien
   <i class="fa-solid fa-fw fa-bus"></i> 12A, 14A, 59A (Reinprechtsdorf Straße, Arbeitergasse)<br />
   <i class="fa-solid fa-fw fa-train"></i> R 3, R, REX 1, REX 2, REX 3, REX 9, S1, S2, S3, S4, S80 (Bahnhof Matzleinsdorfer Platz)
 </div>{: .notice}
+

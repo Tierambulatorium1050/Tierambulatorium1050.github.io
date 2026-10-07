@@ -1,14 +1,15 @@
 ---
-title: Ihr Tierarzt Team in 1050 Wien!
-description: "Liebevolles Tierarzt Team in 1050 Wien, Modernste Geräte, Ultraschall, Digital Röntgen, In-House Labor, Bestes Service, Günstig gelegen, Tierarztpraxis im 5. Bezirk."
+title: Tierarztpraxis am Bacherplatz
+description: "Tierarztpraxis am Bacherplatz: Arbeitergasse 4/4, 1050 Wien. Tel. +43 1 54 54 976 · praxis@vetcat.at. Termine online buchen."
 layout: home
 classes: wide
 author_profile: false
+image: /assets/images/team-comic-2026-v-formation-comic.webp
 excerpt: "Liebevolle Tierärztinnen und Tierärzte, modernste Geräte - Ihr Haustier in besten Händen!"
 header:
-  overlay_color: "#fff"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/kontakt.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.45"
+  overlay_image: /assets/images/team-comic-2026-v-formation-comic.webp
   actions:
     - label: "Termin buchen!"
       url: "/buchungstool/"
@@ -16,24 +17,25 @@ header:
 
 ## Liebe Tierbesitzerinnen und Tierbesitzer,
 
+**Tierarztpraxis am Bacherplatz**  
+**Adresse:** Arbeitergasse 4/4, 1050 Wien  
+**Telefon:** [+43 1 54 54 976](tel:+4315454976)  
+**E-Mail:** [praxis@vetcat.at](mailto:praxis@vetcat.at)
+{: .notice}
+
 Mag. Corinna Rotsejdl und das Team der Tierarztpraxis am Bacherplatz kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
 
-Unsere Tierarztpraxis in 1050 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Tierarztpraxis mit der Leistung einer großen Tierklinik zu vereinen.
+Unsere Tierarztpraxis in 1050 Wien ist mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Tierarztpraxis mit der Leistung einer großen Tierklinik zu vereinen.
 
-Unsere Tierärztinnen und Tierärzte bieten Sprechstunden auf Deutsch, [Englisch](/english/) und [Spanisch](/espanol/) an.
+Unsere Tierärztinnen und Tierärzte bieten Sprechstunden auf Deutsch, [Englisch](/english/), [Spanisch](/espanol/) und [Ungarisch](/magyar/) an.
 
 Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzumelden. Entweder in unserem <b>[Online Buchungssystem](/buchungstool/)</b> oder gerne auch telefonisch unter <b><a href="tel:+43 1 54 54 976">+43 1 54 54 976</a></b>.
 
-Gerne besuchen wir Sie und Ihre Vierbeiner auch zu Hause! Mit unserem Ordinationsauto kommen wir in ganz Wien zu Ihnen. Mehr dazu: <b>[Hausbesuche](/hausbesuche/)</b>
-
 Wir freuen uns auf Ihren Besuch!
 
-Tierarztpraxis am Bacherplatz (Vormals Tierambulatorium am Bacherplatz)<br />
-Arbeitergasse 4<br />
-1050 Wien  <br />
-<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
-<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
-{: .notice}
+
+
+<div data-nosnippet markdown="1">
 
 ## Unsere Öffnungszeiten:
 
@@ -41,3 +43,6 @@ Arbeitergasse 4<br />
 |-------|--------|
 | Montag - Freitag | 09:30 - 19:00 |
 | Samstag | 09:30 - 13:30 | 
+
+
+</div>

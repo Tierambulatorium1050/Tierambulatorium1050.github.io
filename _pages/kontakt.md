@@ -19,12 +19,16 @@ Arbeitergasse 4/4, 1050 Wien
 {: .notice}
 
 
+<div data-nosnippet markdown="1">
+
 ## Öffnungszeiten:
 
 | Tag | Öffnungszeiten |
 |-------|--------|
 | Montag - Freitag | 09:30 - 19:00 |
 | Samstag | 09:30 - 13:30 | 
+
+</div>
 
 **Derzeit kein Notdienst!**
 
@@ -43,3 +47,4 @@ Wir sind Ihr idealer Ansprechpartner für Tiergesundheit, mitten in 1050 Wien.
 </div>{: .notice}
 
 [Lage und Anfahrt](./lage.md)
+
