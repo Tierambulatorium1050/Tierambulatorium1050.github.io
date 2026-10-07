@@ -52,6 +52,10 @@ Bitte bringen Sie Impfpass, Medikamentenliste und relevante Vorbefunde mit. Meld
 
 Gemeinsam möchten wir Ihr Tier möglichst lange gesund begleiten — mit Vorsorge, die nachvollziehbar ist und zu seinem Leben passt.
 
+## Weitere passende Informationen
+
+Weitere Informationen finden Sie zu [Zahnmedizin](/zahnmedizin/), unserem [In-House-Labor](/in-house-labor/) und zur [Ernährungsberatung](/ernaehrungsberatung/).
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Bacherplatz, Arbeitergasse 4/4, 1050 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.

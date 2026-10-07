@@ -1,6 +1,7 @@
 ---
 title: Terminbuchung
 description: Buchen Sie hier Ihren Termin!
+image: "/assets/images/termin.jpg"
 author_profile: false
 layout: single
 canonical_url: 'https://vetcat.at/'

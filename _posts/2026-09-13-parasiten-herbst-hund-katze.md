@@ -10,7 +10,7 @@ Die Tage werden kürzer, die Temperaturen angenehmer – und viele Tierhalterinn
 Die gute Nachricht: Wer die häufigsten Anzeichen kennt, kann früh reagieren.
 
 <figure>
-  <img src="/assets/images/parasiten-herbst-hund-katze.jpg" alt="Comicillustration einer Hautkontrolle bei Hund und Katze auf Zecken, Flöhe und Herbstgrasmilben" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
+  <img src="/assets/images/parasiten-herbst-hund-katze.webp" alt="Comicillustration einer Hautkontrolle bei Hund und Katze auf Zecken, Flöhe und Herbstgrasmilben" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Zecken sind auch im Herbst aktiv

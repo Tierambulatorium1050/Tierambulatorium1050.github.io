@@ -1,6 +1,7 @@
 ---
 title: "Kontakt"
 description: "Kontaktieren Sie uns!"
+image: "/assets/images/title.jpg"
 author_profile: false
 layout: single
 permalink: /kontakt/

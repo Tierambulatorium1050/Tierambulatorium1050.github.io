@@ -4,7 +4,7 @@ description: "Tierarztpraxis am Bacherplatz: Arbeitergasse 4/4, 1050 Wien. Tel. 
 layout: home
 classes: wide
 author_profile: false
-image: /assets/images/team-comic-2026-v-formation-comic.webp
+image: "/assets/images/team-comic-2026-v-formation-comic.webp"
 excerpt: "Liebevolle Tierärztinnen und Tierärzte, modernste Geräte - Ihr Haustier in besten Händen!"
 header:
   overlay_color: "#000"

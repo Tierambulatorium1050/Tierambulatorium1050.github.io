@@ -38,83 +38,324 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "VeterinaryCare",
-  "@id": "https://vetcat.at/#praxis",
-  "name": "Tierarztpraxis am Bacherplatz",
-  "legalName": "Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl",
-  "url": "https://vetcat.at/",
-  "email": "praxis@vetcat.at",
-  "telephone": "+43 1 54 54 976",
-
-  "logo": {
-    "@type": "ImageObject",
-    "url": "https://vetcat.at/assets/images/logo-small.jpg"
-  },
-  "image": [
-    "https://vetcat.at/assets/images/logo-small.jpg",
-    "https://vetcat.at/assets/images/corinna2022_large.jpeg"
-  ],
-
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Arbeitergasse 4/4",
-    "postalCode": "1050",
-    "addressLocality": "Wien",
-    "addressRegion": "Wien",
-    "addressCountry": "AT"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 48.1870109,
-    "longitude": 16.354401
-  },
-  "hasMap": "https://www.openstreetmap.org/?mlat=48.1870109&mlon=16.354401#map=18/48.1870109/16.354401",
-
-  "openingHoursSpecification": [
+  "@graph": [
     {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-      "opens": "09:30",
-      "closes": "19:00"
+      "@type": "VeterinaryCare",
+      "@id": "https://vetcat.at/#praxis",
+      "name": "Tierarztpraxis am Bacherplatz",
+      "legalName": "Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl",
+      "url": "https://vetcat.at/",
+      "email": "praxis@vetcat.at",
+      "telephone": "+43 1 54 54 976",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://vetcat.at/assets/images/logo-small.jpg"
+      },
+      "image": [
+        "https://vetcat.at/assets/images/logo-small.jpg",
+        "https://vetcat.at/assets/images/team-comic-2026-v-formation-comic.webp"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Arbeitergasse 4/4",
+        "postalCode": "1050",
+        "addressLocality": "Wien",
+        "addressRegion": "Wien",
+        "addressCountry": "AT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 48.1870109,
+        "longitude": 16.354401
+      },
+      "hasMap": "https://www.openstreetmap.org/?mlat=48.1870109&mlon=16.354401#map=18/48.1870109/16.354401",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:30",
+          "closes": "19:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "09:30",
+          "closes": "13:30"
+        }
+      ],
+      "availableLanguage": [
+        "de",
+        "en",
+        "es",
+        "hu"
+      ],
+      "sameAs": [
+        "https://www.facebook.com/TierambulatoriumAmBacherplatz/",
+        "https://www.instagram.com/tierarztpraxisambacherplatz/",
+        "https://www.linkedin.com/company/tierarztpraxisambacherplatz/"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+43 1 54 54 976",
+          "contactType": "customer service",
+          "availableLanguage": [
+            "de",
+            "en",
+            "es",
+            "hu"
+          ]
+        }
+      ],
+      "employee": [
+        {
+          "@id": "https://vetcat.at/team/#corinna-rotsejdl"
+        },
+        {
+          "@id": "https://vetcat.at/team/#juan-allina"
+        },
+        {
+          "@id": "https://vetcat.at/team/#gottfried-nemec"
+        },
+        {
+          "@id": "https://vetcat.at/team/#anna-zacher"
+        },
+        {
+          "@id": "https://vetcat.at/team/#johanna-mihalko"
+        },
+        {
+          "@id": "https://vetcat.at/team/#sarah-pittrich-pernt"
+        },
+        {
+          "@id": "https://vetcat.at/team/#jennifer-malandi"
+        }
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Vorsorgeuntersuchung"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Impfungen"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Parasitenprophylaxe (Zecken, Flöhe, Würmer)"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Zahnbehandlung"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Chirurgie (Weichteilchirurgie)"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Kastration"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Innere Medizin"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Dermatologie / Allergieabklärung"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Labor (Blut, Urin, Kot)"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Ultraschall"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Röntgen"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Notfall-Erstversorgung"
+          }
+        }
+      ]
     },
     {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": "Saturday",
-      "opens": "09:30",
-      "closes": "13:30"
-    }
-  ],
-
-  "availableLanguage": ["de", "en", "es", "hu"],
-
-  "sameAs": [
-    "https://www.facebook.com/TierambulatoriumAmBacherplatz/",
-    "https://www.instagram.com/tierarztpraxisambacherplatz/",
-    "https://www.linkedin.com/company/tierarztpraxisambacherplatz/"
-  ],
-
-  "contactPoint": [
+      "@type": "Person",
+      "@id": "https://vetcat.at/team/#corinna-rotsejdl",
+      "name": "Mag. med. vet. Corinna Rotsejdl",
+      "jobTitle": "Tierärztin und Praxisleitung",
+      "url": "https://vetcat.at/team/corinnarotsejdl/",
+      "image": "https://vetcat.at/assets/images/corinna2022.jpeg",
+      "sameAs": [
+        "https://tierarzt.cc/team/corinnarotsejdl/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://vetcat.at/#praxis"
+        },
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        }
+      ]
+    },
     {
-      "@type": "ContactPoint",
-      "telephone": "+43 1 54 54 976",
-      "contactType": "customer service",
-      "availableLanguage": ["de", "en", "es", "hu"]
+      "@type": "Person",
+      "@id": "https://vetcat.at/team/#juan-allina",
+      "name": "Mag. med. vet. Juan Allina",
+      "jobTitle": "Tierarzt",
+      "url": "https://vetcat.at/team/juanallina/",
+      "image": "https://vetcat.at/assets/images/juan1.jpeg",
+      "sameAs": [
+        "https://tierarzt.cc/team/juanallina/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://vetcat.at/#praxis"
+        },
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://vetcat.at/team/#gottfried-nemec",
+      "name": "Mag. med. vet. Gottfried Nemec",
+      "jobTitle": "Tierarzt",
+      "url": "https://vetcat.at/team/gottfriednemec/",
+      "image": "https://vetcat.at/assets/images/gottfried.jpeg",
+      "sameAs": [
+        "https://tierarzt.cc/team/gottfriednemec/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://vetcat.at/#praxis"
+        },
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://vetcat.at/team/#anna-zacher",
+      "name": "Mag. med. vet. Anna Zacher",
+      "jobTitle": "Tierärztin",
+      "url": "https://vetcat.at/team/annazacher/",
+      "image": "https://vetcat.at/assets/images/anna.jpg",
+      "sameAs": [
+        "https://tierarzt.cc/team/annazacher/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://vetcat.at/#praxis"
+        },
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://vetcat.at/team/#johanna-mihalko",
+      "name": "Mag. med. vet. Johanna Mihalko",
+      "jobTitle": "Tierärztin",
+      "url": "https://vetcat.at/team/johannamihalko/",
+      "image": "https://vetcat.at/assets/images/johanna.jpg",
+      "sameAs": [
+        "https://tierarzt.cc/team/johannamihalko/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://vetcat.at/#praxis"
+        },
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://vetcat.at/team/#sarah-pittrich-pernt",
+      "name": "Mag. med. vet. Sarah Pittrich-Pernt",
+      "jobTitle": "Tierärztin",
+      "url": "https://vetcat.at/team/sarahpittrich/",
+      "image": "https://vetcat.at/assets/images/sarah.jpg",
+      "sameAs": [
+        "https://tierarzt.cc/team/sarahpittrich/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://vetcat.at/#praxis"
+        },
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://vetcat.at/team/#jennifer-malandi",
+      "name": "Mag. med. vet. Jennifer Malandi",
+      "jobTitle": "Tierärztin",
+      "url": "https://vetcat.at/team/jennifermalandi/",
+      "image": "https://vetcat.at/assets/images/jennifer.jpg",
+      "sameAs": [
+        "https://tierarzt.cc/team/jennifermalandi/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://vetcat.at/#praxis"
+        },
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        }
+      ]
     }
-  ],
-
-  "makesOffer": [
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Vorsorgeuntersuchung" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Impfungen" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Parasitenprophylaxe (Zecken, Flöhe, Würmer)" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Zahnbehandlung" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Chirurgie (Weichteilchirurgie)" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Kastration" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Innere Medizin" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Dermatologie / Allergieabklärung" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Labor (Blut, Urin, Kot)" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Ultraschall" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Röntgen" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Notfall-Erstversorgung" } }
   ]
 }
 </script>

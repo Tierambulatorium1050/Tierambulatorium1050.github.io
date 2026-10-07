@@ -1,6 +1,7 @@
 ---
 title: "Mag. med. vet. Juan Allina"
 description: "Tierarzt"
+image: "/assets/images/juan1.jpeg"
 layout: single
 permalink: /team/juanallina/
 canonical_url: 'https://vetcat.at/team/'

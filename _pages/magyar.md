@@ -1,6 +1,7 @@
 ---
 title: Állatorvosi rendelő Bécs 5. kerületében
 description: 'Tierarztpraxis am Bacherplatz: Arbeitergasse 4/4, 1050 Wien. Állatorvosi ellátás kutyáknak, macskáknak és kisemlősöknek. Időpontfoglalás és elérhetőségek.'
+image: "/assets/images/kontakt.jpg"
 classes: wide
 layout: single
 locale: hu_HU

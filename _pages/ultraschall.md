@@ -46,6 +46,10 @@ Bitte bringen Sie vorhandene Befunde und eine Liste der Medikamente mit. Ob und 
 
 Wir erklären Ihnen die Befunde und ihre Bedeutung. Nicht jede sichtbare Veränderung lässt sich allein anhand eines Ultraschallbildes sicher benennen. Gegebenenfalls sind ergänzende Untersuchungen oder Verlaufskontrollen nötig. Gemeinsam planen wir den nächsten sinnvollen Schritt.
 
+## Weitere passende Informationen
+
+Lesen Sie ergänzend über [Kardiologie](/kardiologie/) und die Untersuchungsmöglichkeiten unseres [In-House-Labors](/in-house-labor/).
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Bacherplatz, Arbeitergasse 4/4, 1050 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.
